@@ -1,0 +1,46 @@
+
+🎯 RÉSUMÉ COMPLET - TOUS LES KPIs ATTIJARI BANK T1 2024
+=====================================================
+📅 Date fusion: 2025-08-12 22:11:58
+📊 Total KPIs: 24
+✅ KPIs trouvés: 23
+📈 Taux de succès: 95.8%
+
+💰 KPIs STANDARDS TROUVÉS:
+=========================
+✅ Produit Net Bancaire: 125 850 000 milliers TND
+✅ Roe Annualise: 16,4% %
+✅ Roa Annualise: 2,8% %
+✅ Coefficient Exploitation: 52,6 %
+✅ Total Bilan: 8 750 000 000 milliers TND
+✅ Creances Clientele: 5 850 450 000 milliers TND
+✅ Depots Clientele: 6 985 500 milliers TND
+✅ Taux Creances Douteuses: 5,9% %
+✅ Taux Couverture Provisions: 72,8% %
+✅ Ratio Solvabilite: 14,8% %
+✅ Ratio Liquidite: 125,4% %
+✅ Evolution Pnb: 7,2% %
+✅ Evolution Depots: 14,8% %
+✅ Evolution Credits: +4,0% %
+
+🎯 KPIs AVANCÉS TROUVÉS:
+========================
+✅ Marge Nette Interet: 98 450 milliers TND
+✅ Ratio Transformation: 83,8% %
+✅ Provisions Collectives: 345 278 000 TND
+✅ Commissions Nettes: 18 950 milliers TND
+✅ Charges Personnel: 450 milliers TND
+✅ Dotations Amortissements: 852 milliers TND
+✅ Resultat Operations Financieres: 8 450 milliers TND
+✅ Creances Etablissements: 345 278 000 milliers TND
+✅ Portefeuille Titres: 1 085 600 milliers TND
+
+❌ KPIs NON TROUVÉS (1):
+================================
+❌ Fonds Propres Tier1
+
+================================
+📁 Fichiers générés:
+• attijari_all_kpis_merged.json (données complètes)
+• attijari_all_kpis_summary.txt (ce résumé)  
+• attijari_all_kpis_complete.csv (tableau Excel)

@@ -1,0 +1,148 @@
+## BANQUE AL-MOUSSAOUI TUNISIE
+
+´ Etablissement de cr´ edit agr´ e´ e par la BCT
+
+## RAPPORT FINANCIER
+
+PREMIER TRIMESTRE 2024
+
+P´ eriode : 1er janvier - 31 mars 2024
+
+Date de publication : 15 avril 2024
+
+Si` ege social : Avenue Habib Bourguiba, 1001 Tunis Capital social : 85 000 000 TND RC : B051982014
+
+## 1 R´ esum´ e Ex´ ecutif
+
+La Banque Al-Moussaoui Tunisie pr´ esente des r´ esultats solides pour le premier trimestre 2024, avec une croissance soutenue de l'activit´ e commerciale et une am´ elioration de la rentabilit´ e. Le produit net bancaire atteint 42 750 000 TND , en progression de 8,5% par rapport au T1 2023.
+
+## 1.1 Faits marquants du trimestre
+
+- Croissance des d´ epˆ ots de la client` ele : +12,3%
+- Progression des cr´ edits distribu´ es : +9,7%
+- Am´ elioration du coefficient d'exploitation : 58,2% (-2,1 points)
+- Taux de cr´ eances douteuses stabilis´ e ` a 6,8%
+- ROE trimestriel annualis´ e : 14,2%
+
+## 2 Analyse des Performances Financi` eres
+
+## 2.1 Produit Net Bancaire
+
+Le produit net bancaire s'´ etablit ` a 42 750 000 TND au T1 2024, contre 39 400 000 TND au T1 2023, soit une progression de 8,5%.
+
+Table 1 - D´ ecomposition du Produit Net Bancaire (en milliers TND)
+
+| Composantes                               | T1 2024   | T1 2023   | ´ Evolution (%)   |
+|-------------------------------------------|-----------|-----------|-------------------|
+| Int´ erˆ ets et produits assimil´ es      | 35 250    | 32 100    | +9,8%             |
+| Commissions (nettes)                      | 5 850     | 5 200     | +12,5%            |
+| R´ esultat des op´ erations financi` eres | 1 650     | 2 100     | -21,4%            |
+| Total PNB                                 | 42 750    | 39 400    | +8,5%             |
+
+## 2.2 Charges d'Exploitation
+
+Les charges d'exploitation s'´ el` event ` a 24 885 000 TND, en hausse de 3,2% par rapport au T1 2023. Cette maˆ ıtrise des coˆ uts permet une am´ elioration significative du coefficient d'exploitation.
+
+Table 2 - ´ Evolution des Charges d'Exploitation (en milliers TND)
+
+| Nature des charges           | T1 2024   | T1 2023   | ´ Evolution (%)   |
+|------------------------------|-----------|-----------|-------------------|
+| Charges de personnel         | 15 450    | 15 200    | +1,6%             |
+| Charges g´ en´ erales        | 6 230     | 5 980     | +4,2%             |
+| Dotations aux amortissements | 3 205     | 3 930     | -18,4%            |
+| Total charges                | 24 885    | 25 110    | -0,9%             |
+
+## 3 Bilan et Structure Financi` ere
+
+## 3.1 ´ Evolution du Total Bilan
+
+Le total bilan atteint 2 685 000 000 TND au 31 mars 2024, en progression de 11,8% sur un an.
+
+Table 3 - Structure du Bilan (en milliers TND)
+
+| ACTIF                                           | 31/03/2024   | 31/03/2023   |
+|-------------------------------------------------|--------------|--------------|
+| Caisse et comptes BCT                           | 285 600      | 245 300      |
+| Cr´ eances sur les ´ etablissements de cr´ edit | 185 400      | 172 500      |
+| Cr´ eances sur la client` ele                   | 1 850 250    | 1 687 400    |
+| Portefeuille-titres                             | 295 500      | 278 600      |
+| Immobilisations                                 | 68 250       | 65 200       |
+| TOTAL ACTIF                                     | 2 685 000    | 2 449 000    |
+| PASSIF                                          | 31/03/2024   | 31/03/2023   |
+| D´ epˆ ots de la client` ele                    | 2 145 500    | 1 910 200    |
+| Emprunts et ressources sp´ eciales              | 365 400      | 378 900      |
+| Provisions et fonds propres                     | 174 100      | 159 900      |
+| TOTAL PASSIF                                    | 2 685 000    | 2 449 000    |
+
+## 3.2 Analyse de la Qualit´ e des Actifs
+
+Le montant des cr´ eances douteuses s'´ etablit ` a 125 817 000 TND , repr´ esentant 6,8% de l'encours total des cr´ edits. Les provisions constitu´ ees couvrent 65,4% de ces cr´ eances.
+
+## 4 Indicateurs de Performance Cl´ es
+
+## 4.1 Ratios de Rentabilit´ e
+
+Table 4 - Indicateurs de Rentabilit´ e
+
+| Ratio                      | T1 2024   | T1 2023   | Objectif 2024   |
+|----------------------------|-----------|-----------|-----------------|
+| ROE (annualis´ e)          | 14,2%     | 12,8%     | 13,5%           |
+| ROA (annualis´ e)          | 2,1%      | 1,9%      | 2,0%            |
+| Coefficient d'exploitation | 58,2%     | 63,7%     | ¡ 60%           |
+| Marge nette d'int´ erˆ et  | 3,8%      | 3,6%      | 3,7%            |
+
+## 4.2 Ratios de Solvabilit´ e et Liquidit´ e
+
+Table 5 - Ratios Prudentiels
+
+| Ratio                                       | 31/03/2024   | 31/03/2023   | Minimum r´ eglementaire   |
+|---------------------------------------------|--------------|--------------|---------------------------|
+| Ratio de solvabilit´ e (Tier 1)             | 12,8%        | 11,9%        | 10,0%                     |
+| Ratio de liquidit´ e                        | 85,4%        | 82,1%        | 100,0%                    |
+| Ratio de transformation                     | 86,2%        | 88,3%        | -                         |
+| Taux de couverture des cr´ eances douteuses | 65,4%        | 62,8%        | -                         |
+
+## 5 Activit´ e Commerciale
+
+## 5.1 ´ Evolution des D´ epˆ ots
+
+Les d´ epˆ ots de la client` ele progressent de 12,3% pour atteindre 2 145 500 000 TND. Cette croissance est port´ ee par les d´ epˆ ots ` a vue (+15,2%) et les comptes d'´ epargne (+8,9%).
+
+Table 6 - R´ epartition des D´ epˆ ots par Nature (en milliers TND)
+
+| Type de d´ epˆ ot    | 31/03/2024   | 31/03/2023   | ´ Evolution (%)   |
+|----------------------|--------------|--------------|-------------------|
+| Comptes ` a vue      | 856 200      | 743 100      | +15,2%            |
+| Comptes d'´ epargne  | 643 650      | 591 080      | +8,9%             |
+| D´ epˆ ots ` a terme | 645 650      | 576 020      | +12,1%            |
+| Total d´ epˆ ots     | 2 145 500    | 1 910 200    | +12,3%            |
+
+## 5.2 Portefeuille de Cr´ edits
+
+L'encours des cr´ edits ` a la client` ele atteint 1 850 250 000 TND, en progression de 9,7%. Les cr´ edits aux particuliers repr´ esentent 62% du portefeuille total.
+
+## 6 Perspectives et Objectifs 2024
+
+La banque confirme ses objectifs pour l'exercice 2024 :
+
+- Croissance du PNB : 10-12%
+- Coefficient d'exploitation : ¡ 60%
+
+Table 7 - R´ epartition des Cr´ edits par Secteur (en milliers TND)
+
+| Secteur             | 31/03/2024   | 31/03/2023   | Part (%)   |
+|---------------------|--------------|--------------|------------|
+| Particuliers        | 1 147 155    | 1 045 228    | 62,0%      |
+| Entreprises (PME)   | 481 565      | 438 244      | 26,0%      |
+| Grandes entreprises | 221 530      | 203 928      | 12,0%      |
+| Total cr´ edits     | 1 850 250    | 1 687 400    | 100,0%     |
+
+- ROE : 13,5-14,5%
+
+- Taux de cr´ eances douteuses : ¡ 7,0%
+
+Risques identifi´ es : ´ Evolution des taux d'int´ erˆ et, conjoncture ´ economique, concurrence accrue.
+
+Opportunit´ es : Digitalisation bancaire, expansion r´ egionale, d´ eveloppement de nouveaux produits.
+
+Certifi´ e conforme, Direction G´ en´ erale Banque Al-Moussaoui Tunisie

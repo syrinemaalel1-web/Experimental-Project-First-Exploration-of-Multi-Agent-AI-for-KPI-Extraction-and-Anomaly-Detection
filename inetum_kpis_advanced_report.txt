@@ -1,0 +1,168 @@
+🧮 RAPPORT KPIs AVANCÉS - INETUM TUNISIE T1 2024
+============================================================
+
+📊 RÉSUMÉ EXÉCUTIF:
+   • Période: Premier trimestre 2024
+   • Société: Inetum Tunisie - Services numériques
+   • KPIs de base utilisés: 39
+   • KPIs avancés calculés: 19
+   • Taux de succès calculs: 100.0%
+   • Timestamp: 2025-08-19 14:18:59
+
+📈 RENTABILITÉ:
+----------------------------------------
+✅ Resultat Operationnel
+   Valeur: 7 130 000 TND
+   Formule: chiffre_affaires_t1_2024 - charges_exploitation_t1_2024
+   💡 Indique la rentabilité opérationnelle de l'entreprise
+   📊 Source: chiffre_affaires_t1_2024, charges_exploitation_t1_2024
+
+✅ Resultat Net Estime
+   Valeur: 5 347 500 TND
+   Formule: chiffre_affaires_t1_2024 * marge_nette / 100
+   💡 Le résultat net estimé représente la marge bénéficiaire de l'entreprise sur son chiffre d'affaires.
+   📊 Source: chiffre_affaires_t1_2024, marge_nette
+
+
+📈 CROISSANCE:
+----------------------------------------
+✅ Croissance Absolue Ca
+   Valeur: 4 750 000 TND
+   Formule: chiffre_affaires_t1_2024 - chiffre_affaires_t1_2023
+   💡 Indique la variation absolue du chiffre d'affaires entre 2023 et 2024
+   📊 Source: chiffre_affaires_t1_2024, chiffre_affaires_t1_2023
+
+
+📈 PROJECTION:
+----------------------------------------
+✅ Ca Annualise 2024
+   Valeur: 115 000 000 TND
+   Formule: chiffre_affaires_t1_2024 * 4
+   💡 Le CA annualisé 2024 représente le chiffre d'affaires du premier trimestre 2024 multiplié par 4.
+   📊 Source: chiffre_affaires_t1_2024
+
+✅ Charges Annualisees 2024
+   Valeur: 86 480 000 TND
+   Formule: charges_exploitation_t1_2024 * 4
+   💡 Indique les charges annuelles 2024 de l'entreprise
+   📊 Source: charges_exploitation_t1_2024
+
+
+📈 PRODUCTIVITÉ:
+----------------------------------------
+✅ Charges Par Collaborateur
+   Valeur: 14910.34 TND/collaborateur
+   Formule: charges_exploitation_t1_2024 / effectif_total
+   💡 Indique le coût moyen par collaborateur pour l'entreprise
+   📊 Source: charges_exploitation_t1_2024, effectif_total
+
+✅ Ca Par Effectif
+   Valeur: 19827.59 TND/collaborateur
+   Formule: chiffre_affaires_t1_2024 / effectif_total
+   💡 Indique le chiffre d'affaires moyen par collaborateur de l'entreprise
+   📊 Source: chiffre_affaires_t1_2024, effectif_total
+
+✅ Intensite Capital Humain
+   Valeur: 58.6 %
+   Formule: (charges_personnel_t1_2024 / chiffre_affaires_t1_2024) * 100
+   💡 Indique le pourcentage de charges personnel par rapport au chiffre d'affaires
+   📊 Source: charges_personnel_t1_2024, chiffre_affaires_t1_2024
+
+
+📈 STRUCTURE:
+----------------------------------------
+✅ Ratio Liquidite
+   Valeur: 32.7 %
+   Formule: (tresorerie / total_bilan) * 100
+   💡 Ce ratio indique le pourcentage de liquidité de l'entreprise par rapport à son total bilan.
+   📊 Source: tresorerie, total_bilan
+
+✅ Poids Creances
+   Valeur: 47.9 %
+   Formule: (creances_clients / total_bilan) * 100
+   💡 Indique le poids des créances clients dans le total du bilan de l'entreprise
+   📊 Source: creances_clients, total_bilan
+
+✅ Ratio Immobilisations
+   Valeur: 19.4 %
+   Formule: (actifs_immobilises / total_bilan) * 100
+   💡 Ce ratio indique le pourcentage d'actifs immobilisés par rapport au total bilan de l'entreprise.
+   📊 Source: actifs_immobilises, total_bilan
+
+
+📈 RÉPARTITION:
+----------------------------------------
+✅ Part Developpement Ca
+   Valeur: 44.0 %
+   Formule: (ca_developpement_applications / chiffre_affaires_t1_2024) * 100
+   💡 Indique le pourcentage du chiffre d'affaires total généré par le développement d'applications
+   📊 Source: ca_developpement_applications, chiffre_affaires_t1_2024
+
+✅ Part Cloud Ca
+   Valeur: 30.0 %
+   Formule: (ca_infrastructure_cloud / chiffre_affaires_t1_2024) * 100
+   💡 Indique la part du chiffre d'affaires généré par les infrastructures cloud
+   📊 Source: ca_infrastructure_cloud, chiffre_affaires_t1_2024
+
+✅ Part Conseil Ca
+   Valeur: 12.0 %
+   Formule: (ca_conseil_transformation / chiffre_affaires_t1_2024) * 100
+   💡 Indique la part du conseil dans le chiffre d'affaires total de l'entreprise
+   📊 Source: ca_conseil_transformation, chiffre_affaires_t1_2024
+
+
+📈 CLIENTS:
+----------------------------------------
+✅ Part Services Financiers
+   Valeur: 35.0 %
+   Formule: (ca_services_financiers / chiffre_affaires_t1_2024) * 100
+   💡 Indique la part des services financiers dans le chiffre d'affaires total de l'entreprise
+   📊 Source: ca_services_financiers, chiffre_affaires_t1_2024
+
+✅ Part Telecom
+   Valeur: 25.0 %
+   Formule: (ca_telecommunications / chiffre_affaires_t1_2024) * 100
+   💡 Indique la part du chiffre d'affaires généré par les télécommunications dans l'ensemble du chiffre d'affaires de l'entreprise
+   📊 Source: ca_telecommunications, chiffre_affaires_t1_2024
+
+✅ Part Secteur Public
+   Valeur: 20.0 %
+   Formule: (ca_secteur_public / chiffre_affaires_t1_2024) * 100
+   💡 Indique la part du chiffre d'affaires généré par le secteur public dans le chiffre d'affaires total de l'entreprise
+   📊 Source: ca_secteur_public, chiffre_affaires_t1_2024
+
+
+📈 INNOVATION:
+----------------------------------------
+✅ Ratio Rd Ca
+   Valeur: 6.4 %
+   Formule: (budget_rd / chiffre_affaires_t1_2024) * 100
+   💡 Ce ratio indique le pourcentage du chiffre d'affaires alloué au budget R&D.
+   📊 Source: budget_rd, chiffre_affaires_t1_2024
+
+
+📈 FORMATION:
+----------------------------------------
+✅ Certifications Par Collaborateur
+   Valeur: 0.20 certifications/collaborateurs
+   Formule: certifications_obtenues / effectif_total
+   💡 Indique le nombre moyen de certifications obtenues par collaborateur
+   📊 Source: certifications_obtenues, effectif_total
+
+
+📋 ANALYSE GLOBALE:
+--------------------
+• Indicateurs calculés avec succès: 19
+• Indicateurs en échec: 0
+
+🎯 INDICATEURS CLÉS:
+• Resultat Operationnel: 7 130 000 TND
+• Ca Annualise 2024: 115 000 000 TND
+• Charges Par Collaborateur: 14910.34 TND/collaborateur
+• Ratio Rd Ca: 6.4%
+• Part Developpement Ca: 44.0%
+
+============================================================
+📄 Rapport généré par Agent 2 - Calculateur KPIs Avancés
+🏢 Inetum Tunisie - Société de services du numérique
+⏰ 2025-08-19 14:18:59

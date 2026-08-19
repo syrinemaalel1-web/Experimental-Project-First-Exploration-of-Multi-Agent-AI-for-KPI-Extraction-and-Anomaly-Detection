@@ -1,0 +1,11 @@
+Catégorie,KPI_Name,Value,Unit,Period,Confidence,Found,Source,Calculation_Details
+Avancé-Corrigé,ratio_deposits_loans,0.119,%,T1 2024,9,Oui,Avancé-Corrigé,(6985500 / 5850450000) * 100 = 0.119%
+Avancé-Corrigé,qualite_portefeuille,94.1,%,T1 2024,10,Oui,Avancé-Corrigé,100 - 5.9% = 94.1%
+Avancé-Corrigé,marge_commerciale,0.015,%,T1 2024,9,Oui,Avancé-Corrigé,(18950 / 125850000) * 100 = 0.015%
+Avancé-Corrigé,concentration_deposits,0.080,%,T1 2024,10,Oui,Avancé-Corrigé,(6985500 / 8750000000) * 100 = 0.080%
+Avancé-Corrigé,concentration_credits,66.9,%,T1 2024,10,Oui,Avancé-Corrigé,(5850450000 / 8750000000) * 100 = 66.9%
+Avancé-Corrigé,rendement_portefeuille_titres,3.11,%,T1 2024,7,Oui,Avancé-Corrigé,(8450 / 1085600) * 100 * 4 = 3.11%
+Avancé-Corrigé,marge_nette_sur_pnb,0.1,%,T1 2024,9,Oui,Avancé-Corrigé,(98450 / 125850000) * 100 = 0.1%
+Avancé-Corrigé,croissance_pnb_reelle,4.2,%,T1 2024,8,Oui,Avancé-Corrigé,7.2% - 3% (inflation) = 4.2%
+Avancé-Corrigé,efficacite_provisions,72.8,%,T1 2024,10,Oui,Avancé-Corrigé,Référence directe: 72.8%
+Avancé-Corrigé,ratio_activite_bancaire,33.5,%,T1 2024,9,Oui,Avancé-Corrigé,((5850450000 + 6985500)/2) / 8750000000 * 100 = 33.5%

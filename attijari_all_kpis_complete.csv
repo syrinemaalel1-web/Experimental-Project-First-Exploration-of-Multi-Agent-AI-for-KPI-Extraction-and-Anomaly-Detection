@@ -1,0 +1,25 @@
+Catégorie,KPI_Name,Value,Unit,Period,Confidence,Found,Source
+Standard,produit_net_bancaire,125 850 000,milliers TND,T1 2024,high,Oui,KPIs Standards
+Standard,roe_annualise,"16,4%",%,T1 2024,high,Oui,KPIs Standards
+Standard,roa_annualise,"2,8%",%,T1 2024,high,Oui,KPIs Standards
+Standard,coefficient_exploitation,"52,6",%,T1 2024,high,Oui,KPIs Standards
+Standard,total_bilan,8 750 000 000,milliers TND,31 mars 2024,high,Oui,KPIs Standards
+Standard,creances_clientele,5 850 450 000,milliers TND,31 mars 2024,high,Oui,KPIs Standards
+Standard,depots_clientele,6 985 500,milliers TND,31 mars 2024,high,Oui,KPIs Standards
+Standard,taux_creances_douteuses,"5,9%",%,,high,Oui,KPIs Standards
+Standard,taux_couverture_provisions,"72,8%",%,,high,Oui,KPIs Standards
+Standard,ratio_solvabilite,"14,8%",%,31/03/2024,high,Oui,KPIs Standards
+Standard,ratio_liquidite,"125,4%",%,31/03/2024,high,Oui,KPIs Standards
+Standard,evolution_pnb,"7,2%",%,T1 2023 à T1 2024,high,Oui,KPIs Standards
+Standard,evolution_depots,"14,8%",%,31/03/2024,high,Oui,KPIs Standards
+Standard,evolution_credits,"+4,0%",%,2024 par rapport à 2023,medium,Oui,KPIs Standards
+Avancé,marge_nette_interet,98 450,milliers TND,T1 2024,high,Oui,KPIs Avancés
+Avancé,ratio_transformation,"83,8%",%,31/03/2024,high,Oui,KPIs Avancés
+Avancé,provisions_collectives,345 278 000,TND,,high,Oui,KPIs Avancés
+Avancé,fonds_propres_tier1,Information non disponible,,,not_found,Non,KPIs Avancés
+Avancé,commissions_nettes,18 950,milliers TND,T1 2024,high,Oui,KPIs Avancés
+Avancé,charges_personnel,450,milliers TND,T1 2024,high,Oui,KPIs Avancés
+Avancé,dotations_amortissements,852,milliers TND,T1 2024,high,Oui,KPIs Avancés
+Avancé,resultat_operations_financieres,8 450,milliers TND,T1 2024,medium,Oui,KPIs Avancés
+Avancé,creances_etablissements,345 278 000,milliers TND,,high,Oui,KPIs Avancés
+Avancé,portefeuille_titres,1 085 600,milliers TND,31/03/2024,high,Oui,KPIs Avancés

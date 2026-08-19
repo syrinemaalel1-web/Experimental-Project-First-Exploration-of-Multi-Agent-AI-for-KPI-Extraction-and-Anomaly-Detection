@@ -1,0 +1,16 @@
+KPI_Name,Value,Unit,Sector_Min,Sector_Max,Optimal_Min,Optimal_Max,Z_Score,Z_Interpretation,Is_Anomaly,Anomaly_Type,Severity,Position_Percentile,Period,Business_Interpretation
+roe_annualise,16.4,%,8.0,18.0,12.0,16.0,1.36,Modérément atypique,Oui,Hors fourchette optimale,Modérée,84.0,T1 2024,Rentabilité des capitaux propres
+roa_annualise,2.8,%,0.8,3.5,1.5,2.8,0.96,Normal,Non,Normal,Faible,74.1,T1 2024,Rentabilité des actifs
+coefficient_exploitation,52.6,%,45.0,70.0,45.0,55.0,-0.78,Normal,Non,Normal,Faible,30.4,T1 2024,Efficacité opérationnelle (plus bas = mieux)
+taux_creances_douteuses,5.9,%,3.0,12.0,3.0,7.0,-0.71,Normal,Non,Normal,Faible,32.2,,Qualité du portefeuille crédit (plus bas = mieux)
+taux_couverture_provisions,72.8,%,50.0,90.0,65.0,80.0,0.28,Normal,Non,Normal,Faible,57.0,,Provisionnement du risque crédit
+ratio_solvabilite,14.8,%,10.0,20.0,12.0,16.0,-0.08,Normal,Non,Normal,Faible,48.0,31/03/2024,Solidité financière réglementaire
+ratio_liquidite,125.4,%,100.0,150.0,110.0,130.0,0.03,Normal,Non,Normal,Faible,50.8,31/03/2024,Capacité à honorer les obligations
+evolution_pnb,7.2,%,2.0,15.0,5.0,10.0,-0.4,Normal,Non,Normal,Faible,40.0,T1 2023 à T1 2024,Croissance des revenus
+evolution_depots,14.8,%,3.0,20.0,8.0,15.0,0.78,Normal,Non,Normal,Faible,69.4,31/03/2024,Croissance des ressources
+ratio_transformation,83.8,%,70.0,95.0,75.0,85.0,0.21,Normal,Non,Normal,Faible,55.2,31/03/2024,Équilibre emplois/ressources
+marge_commerciale,0.015,%,10.0,25.0,15.0,20.0,-4.66,Très atypique,Oui,Hors fourchette sectorielle,Élevée,0,T1 2024,Part des commissions dans le PNB
+concentration_deposits,0.08,%,65.0,85.0,70.0,80.0,-14.98,Très atypique,Oui,Hors fourchette sectorielle,Élevée,0,T1 2024,Poids des dépôts dans le bilan
+concentration_credits,66.9,%,50.0,80.0,60.0,70.0,0.25,Normal,Non,Normal,Faible,56.3,T1 2024,Poids des crédits dans le bilan
+marge_nette_sur_pnb,0.1,%,60.0,85.0,70.0,80.0,-11.58,Très atypique,Oui,Hors fourchette sectorielle,Élevée,0,T1 2024,Poids de la marge d'intérêt
+croissance_pnb_reelle,4.2,%,1.0,12.0,3.0,8.0,-0.84,Normal,Non,Normal,Faible,29.1,T1 2024,Croissance corrigée de l'inflation

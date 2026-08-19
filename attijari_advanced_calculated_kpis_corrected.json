@@ -1,0 +1,157 @@
+{
+  "extraction_info": {
+    "timestamp": "2025-08-13 14:30:16",
+    "agent": "Agent 2 - Calcul KPIs Avancés (CORRIGÉ)",
+    "description": "Calcul KPIs avancés Attijari Bank T1 2024 - Version corrigée",
+    "total_kpis": 10,
+    "kpis_calculated": 10,
+    "success_rate": 100.0,
+    "corrections_applied": [
+      "Normalisation des unités (milliers TND)",
+      "Correction ratio dépôts/crédits",
+      "Correction marge commerciale",
+      "Correction concentration dépôts",
+      "Ajout détails de calcul"
+    ]
+  },
+  "kpis": {
+    "ratio_deposits_loans": {
+      "value": "0.119",
+      "unit": "%",
+      "period": "T1 2024",
+      "confidence": "9",
+      "source_found": true,
+      "calculation_method": "Calcul direct",
+      "base_data_used": [
+        "depots_clientele",
+        "creances_clientele"
+      ],
+      "category": "Liquidité Structurelle",
+      "calculation_details": "(6985500 / 5850450000) * 100 = 0.119%"
+    },
+    "qualite_portefeuille": {
+      "value": "94.1",
+      "unit": "%",
+      "period": "T1 2024",
+      "confidence": "10",
+      "source_found": true,
+      "calculation_method": "Calcul direct",
+      "base_data_used": [
+        "taux_creances_douteuses"
+      ],
+      "category": "Qualité Crédit",
+      "calculation_details": "100 - 5.9% = 94.1%"
+    },
+    "marge_commerciale": {
+      "value": "0.015",
+      "unit": "%",
+      "period": "T1 2024",
+      "confidence": "9",
+      "source_found": true,
+      "calculation_method": "Calcul direct",
+      "base_data_used": [
+        "commissions_nettes",
+        "produit_net_bancaire"
+      ],
+      "category": "Performance Commerciale",
+      "calculation_details": "(18950 / 125850000) * 100 = 0.015%"
+    },
+    "concentration_deposits": {
+      "value": "0.080",
+      "unit": "%",
+      "period": "T1 2024",
+      "confidence": "10",
+      "source_found": true,
+      "calculation_method": "Calcul direct",
+      "base_data_used": [
+        "depots_clientele",
+        "total_bilan"
+      ],
+      "category": "Structure Bilan",
+      "calculation_details": "(6985500 / 8750000000) * 100 = 0.080%"
+    },
+    "concentration_credits": {
+      "value": "66.9",
+      "unit": "%",
+      "period": "T1 2024",
+      "confidence": "10",
+      "source_found": true,
+      "calculation_method": "Calcul direct",
+      "base_data_used": [
+        "creances_clientele",
+        "total_bilan"
+      ],
+      "category": "Structure Bilan",
+      "calculation_details": "(5850450000 / 8750000000) * 100 = 66.9%"
+    },
+    "rendement_portefeuille_titres": {
+      "value": "3.11",
+      "unit": "%",
+      "period": "T1 2024",
+      "confidence": "7",
+      "source_found": true,
+      "calculation_method": "Calcul direct",
+      "base_data_used": [
+        "resultat_operations_financieres",
+        "portefeuille_titres"
+      ],
+      "category": "Rendement Investissements",
+      "calculation_details": "(8450 / 1085600) * 100 * 4 = 3.11%"
+    },
+    "marge_nette_sur_pnb": {
+      "value": "0.1",
+      "unit": "%",
+      "period": "T1 2024",
+      "confidence": "9",
+      "source_found": true,
+      "calculation_method": "Calcul direct",
+      "base_data_used": [
+        "marge_nette_interet",
+        "produit_net_bancaire"
+      ],
+      "category": "Structure Revenus",
+      "calculation_details": "(98450 / 125850000) * 100 = 0.1%"
+    },
+    "croissance_pnb_reelle": {
+      "value": "4.2",
+      "unit": "%",
+      "period": "T1 2024",
+      "confidence": "8",
+      "source_found": true,
+      "calculation_method": "Calcul direct",
+      "base_data_used": [
+        "evolution_pnb"
+      ],
+      "category": "Croissance Réelle",
+      "calculation_details": "7.2% - 3% (inflation) = 4.2%"
+    },
+    "efficacite_provisions": {
+      "value": "72.8",
+      "unit": "%",
+      "period": "T1 2024",
+      "confidence": "10",
+      "source_found": true,
+      "calculation_method": "Référence directe",
+      "base_data_used": [
+        "taux_couverture_provisions"
+      ],
+      "category": "Gestion Risque",
+      "calculation_details": "Référence directe: 72.8%"
+    },
+    "ratio_activite_bancaire": {
+      "value": "33.5",
+      "unit": "%",
+      "period": "T1 2024",
+      "confidence": "9",
+      "source_found": true,
+      "calculation_method": "Calcul direct",
+      "base_data_used": [
+        "creances_clientele",
+        "depots_clientele",
+        "total_bilan"
+      ],
+      "category": "Activité Bancaire",
+      "calculation_details": "((5850450000 + 6985500)/2) / 8750000000 * 100 = 33.5%"
+    }
+  }
+}

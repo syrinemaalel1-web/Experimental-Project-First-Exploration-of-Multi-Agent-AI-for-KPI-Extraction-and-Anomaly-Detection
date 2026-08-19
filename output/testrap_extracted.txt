@@ -1,0 +1,218 @@
+# Document extrait de: data/testrap3.pdf
+## ATTIJARI BANK TUNISIE
+
+## TUNISIE
+
+´ Etablissement de cr´ edit agr´ e´ e par la BCT
+
+## RAPPORT FINANCIER
+
+## PREMIER TRIMESTRE 2024
+
+P´ eriode : 1er janvier - 31 mars 2024
+
+Date de publication : 18 avril 2024
+
+Si` ege social : Avenue H´
+
+edi Nouira, 1001 Tunis
+
+Capital social : 150 000 000 TND
+
+RC : B011975018
+
+## Table des mati` eres
+
+| 1 R´ esum´ e Ex´ ecutif   | 1 R´ esum´ e Ex´ ecutif                | 1 R´ esum´ e Ex´ ecutif                  |   2 |
+|---------------------------|----------------------------------------|------------------------------------------|-----|
+|                           | 1.1                                    | Faits marquants du trimestre . .         |   2 |
+| 2                         | Analyse des Performances Financi` eres | Analyse des Performances Financi` eres   |   2 |
+|                           | 2.1                                    | Produit Net Bancaire . . . . . .         |   2 |
+|                           | 2.2                                    | Charges d'Exploitation . . . . . .       |   2 |
+| 3                         | Bilan et Structure Financi` ere        | Bilan et Structure Financi` ere          |   3 |
+|                           | 3.1                                    | ´ Evolution du Total Bilan . . . . .     |   3 |
+|                           | 3.2                                    | Analyse de la Qualit´ e des Actifs .     |   3 |
+| 4                         | Indicateurs de Performance Cl´ es      | Indicateurs de Performance Cl´ es        |   3 |
+|                           | 4.1                                    | Ratios de Rentabilit´ e . . . . . . .    |   3 |
+|                           | 4.2                                    | Ratios de Solvabilit´ e et Liquidit´ e   |   3 |
+| 5                         | Activit´ e Commerciale                 | Activit´ e Commerciale                   |   3 |
+|                           | 5.1                                    | ´ Evolution des D´ epˆ ots . . . . . . . |   3 |
+|                           | 5.2                                    | Portefeuille de Cr´ edits . . . . . .    |   4 |
+| 6                         | Innovation et Transformation Digitale  | Innovation et Transformation Digitale    |   4 |
+|                           | 6.1                                    | Investissements Technologiques .         |   4 |
+|                           | 6.2                                    | Indicateurs Digitaux . . . . . . .       |   4 |
+| 7                         | Perspectives et Objectifs 2024         | Perspectives et Objectifs 2024           |   4 |
+|                           | 7.1                                    | Objectifs Financiers . . . . . . .       |   4 |
+|                           | 7.2                                    | Axes Strat´ egiques . . . . . . . . .    |   5 |
+
+## 1 R´ esum´ e Ex´ ecutif
+
+Attijari Bank Tunisie affiche des performances robustes au premier trimestre 2024, consolidant sa position de leader sur le march´ e bancaire tunisien. La banque maintient une trajectoire de croissance ´ equilibr´ ee avec une gestion prudentielle renforc´ ee.
+
+Le produit net bancaire s'´ etablit ` a 125 850 000 TND, en progression de 7,2% par rapport au T1 2023.
+
+## 1.1 Faits marquants du trimestre
+
+- Croissance des d´ epˆ ots de la client` ele : +14,8%
+- Progression des cr´ edits distribu´ es : +11,3%
+- Am´ elioration du coefficient d'exploitation : 52,6% (-3,2 points)
+- Taux de cr´ eances douteuses maˆ ıtris´ e ` a 5,9%
+- ROE trimestriel annualis´ e : 16,4%
+- Lancement de la plateforme digitale 'Attijari Mobile Pro'
+
+## 2 Analyse des Performances Financi` eres
+
+## 2.1 Produit Net Bancaire
+
+Le produit net bancaire atteint 125 850 000 TND au T1 2024, contre 117 400 000 TND au T1 2023, soit une croissance de 7,2%.
+
+Table 1 - D´ ecomposition du Produit Net Bancaire (en milliers TND)
+
+| Composantes                               | T1 2024   | T1 2023   | ´ Evolution (%)   |
+|-------------------------------------------|-----------|-----------|-------------------|
+| Int´ erˆ ets et produits assimil´ es      | 98 450    | 91 200    | +7,9%             |
+| Commissions (nettes)                      | 18 950    | 17 100    | +10,8%            |
+| R´ esultat des op´ erations financi` eres | 8 450     | 9 100     | -7,1%             |
+| Total PNB                                 | 125 850   | 117 400   | +7,2%             |
+
+## 2.2 Charges d'Exploitation
+
+Les charges d'exploitation s'´ el` event ` a 66 222 000 TND, en hausse mod´ er´ ee de 1,8% par rapport au T1 2023. Cette excellente maˆ ıtrise des coˆ uts traduit l'efficacit´ e op´ erationnelle de la banque.
+
+Table 2 - ´ Evolution des Charges d'Exploitation (en milliers TND)
+
+| Nature des charges           |   T1 |   2024 | T1 2023   | ´ Evolution (%)   |
+|------------------------------|------|--------|-----------|-------------------|
+| Charges de personnel         |   38 |    450 | 37 800    | +1,7%             |
+| Charges g´ en´ erales        |   18 |    920 | 18 200    | +4,0%             |
+| Dotations aux amortissements |    8 |    852 | 9 050     | -2,2%             |
+| Total charges                |   66 |    222 | 65 050    | +1,8%             |
+
+## 3 Bilan et Structure Financi` ere
+
+## 3.1 ´ Evolution du Total Bilan
+
+Le total bilan progresse de 13,5% pour atteindre 8 750 000 000 TND au 31 mars 2024, refl´ etant la dynamique commerciale soutenue.
+
+Table 3 - Structure du Bilan (en milliers TND)
+
+| ACTIF                                       | 31/03/2024   | 31/03/2023   |
+|---------------------------------------------|--------------|--------------|
+| Caisse et comptes BCT                       | 985 400      | 845 200      |
+| Cr´ eances sur ´ etablissements de cr´ edit | 650 200      | 598 500      |
+| Cr´ eances sur la client` ele               | 5 850 450    | 5 254 800    |
+| Portefeuille-titres                         | 1 085 600    | 965 400      |
+| Immobilisations                             | 178 350      | 165 100      |
+| TOTAL ACTIF                                 | 8 750 000    | 7 709 000    |
+| PASSIF                                      | 31/03/2024   | 31/03/2023   |
+| D´ epˆ ots de la client` ele                | 6 985 500    | 6 084 200    |
+| Emprunts et ressources sp´ eciales          | 1 252 800    | 1 185 600    |
+| Provisions et fonds propres                 | 511 700      | 439 200      |
+| TOTAL PASSIF                                | 8 750 000    | 7 709 000    |
+
+## 3.2 Analyse de la Qualit´ e des Actifs
+
+Le montant des cr´ eances douteuses s'´ etablit ` a 345 278 000 TND, repr´ esentant 5,9% de l'encours total des cr´ edits. Le taux de couverture par les provisions atteint 72,8%, niveau satisfaisant au regard des standards internationaux.
+
+## 4 Indicateurs de Performance Cl´ es
+
+## 4.1 Ratios de Rentabilit´ e
+
+Table 4 - Indicateurs de Rentabilit´ e
+
+| Ratio                      | T1 2024   | T1 2023   | Objectif 2024   |
+|----------------------------|-----------|-----------|-----------------|
+| ROE (annualis´ e)          | 16,4%     | 14,8%     | 15,5%           |
+| ROA (annualis´ e)          | 2,8%      | 2,5%      | 2,6%            |
+| Coefficient d'exploitation | 52,6%     | 55,8%     | ¡ 55%           |
+| Marge nette d'int´ erˆ et  | 4,2%      | 3,9%      | 4,0%            |
+
+## 4.2 Ratios de Solvabilit´ e et Liquidit´ e
+
+## 5 Activit´ e Commerciale
+
+## 5.1 ´ Evolution des D´ epˆ ots
+
+Les d´ epˆ ots de la client` ele enregistrent une forte progression de 14,8% pour s'´ etablir ` a 6 985 500 000 TND. Cette performance illustre la confiance accrue des clients.
+
+Table 5 - Ratios Prudentiels
+
+| Ratio                                   | 31/03/2024   | 31/03/2023   | Minimum r´ eglementaire   |
+|-----------------------------------------|--------------|--------------|---------------------------|
+| Ratio de solvabilit´ e (Tier 1)         | 14,8%        | 13,2%        | 10,0%                     |
+| Ratio de liquidit´ e                    | 125,4%       | 118,9%       | 100,0%                    |
+| Ratio de transformation                 | 83,8%        | 86,4%        | -                         |
+| Taux de couverture cr´ eances douteuses | 72,8%        | 69,5%        | -                         |
+
+Table 6 - R´ epartition des D´ epˆ ots par Nature (en milliers TND)
+
+| Type de d´ epˆ ot    | 31/03/2024   | 31/03/2023   | ´ Evolution (%)   |
+|----------------------|--------------|--------------|-------------------|
+| Comptes ` a vue      | 2 794 200    | 2 433 680    | +14,8%            |
+| Comptes d'´ epargne  | 2 095 650    | 1 825 260    | +14,8%            |
+| D´ epˆ ots ` a terme | 2 095 650    | 1 825 260    | +14,8%            |
+| Total d´ epˆ ots     | 6 985 500    | 6 084 200    | +14,8%            |
+
+## 5.2 Portefeuille de Cr´ edits
+
+L'encours des cr´ edits ` a la client` ele progresse de 11,3% pour atteindre 5 850 450 000 TND, t´ emoignant du dynamisme de l'interm´ ediation bancaire.
+
+Table 7 - R´ epartition des Cr´ edits par Secteur (en milliers TND)
+
+| Secteur             | 31/03/2024   | 31/03/2023   | Part (%)   |
+|---------------------|--------------|--------------|------------|
+| Particuliers        | 3 218 748    | 2 889 640    | 55,0%      |
+| Entreprises (PME)   | 1 521 617    | 1 366 248    | 26,0%      |
+| Grandes entreprises | 1 110 085    | 998 912      | 19,0%      |
+| Total cr´ edits     | 5 850 450    | 5 254 800    | 100,0%     |
+
+## 6 Innovation et Transformation Digitale
+
+## 6.1 Investissements Technologiques
+
+Attijari Bank poursuit sa transformation digitale avec des investissements strat´ egiques :
+
+- Lancement d'Attijari Mobile Pro pour les professionnels
+- D´ eveloppement de l'intelligence artificielle pour la relation client
+- Renforcement de la cybers´ ecurit´ e : +25% du budget IT
+- Formation digitale : 2 850 heures dispens´ ees au T1
+
+## 6.2 Indicateurs Digitaux
+
+## 7 Perspectives et Objectifs 2024
+
+Attijari Bank confirme ses ambitions pour l'exercice 2024 dans un contexte ´ economique en am´ elioration :
+
+## 7.1 Objectifs Financiers
+
+- Croissance du PNB : 9-11%
+- Coefficient d'exploitation : ¡ 55%
+
+Table 8 - Adoption des Services Digitaux
+
+| Indicateur                        | T1 2024   | T1 2023   | ´ Evolution (%)   |
+|-----------------------------------|-----------|-----------|-------------------|
+| Clients actifs mobile banking     | 285 400   | 248 200   | +15,0%            |
+| Transactions digitales (millions) | 12,8      | 10,5      | +21,9%            |
+| Taux de digitalisation            | 68,5%     | 62,3%     | +6,2 pts          |
+
+- ROE : 15,5-17,0%
+
+- Taux de cr´ eances douteuses : ¡ 6,5%
+
+- Ratio de solvabilit´ e : ¿ 14%
+
+## 7.2 Axes Strat´ egiques
+
+- Renforcement de la banque de d´ etail
+- D´ eveloppement du financement des PME
+- Expansion de la banque digitale
+- Diversification vers la bancassurance
+
+Risques identifi´ es : Volatilit´ e des taux d'int´ erˆ et, ralentissement ´ economique potentiel, intensification de la concurrence digitale, ´ evolution r´ eglementaire.
+
+Opportunit´ es : Reprise ´ economique post-COVID, digitalisation acc´ el´ er´ ee, d´ eveloppement de l'inclusion financi` ere, partenariats fintech.
+
+Certifi´ e conforme,
+
+Direction G´ en´ erale Attijari Bank Tunisie Tunis, le 18 avril 2024

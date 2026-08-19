@@ -1,0 +1,333 @@
+{
+  "detection_info": {
+    "timestamp": "2025-08-13 14:36:55",
+    "agent": "Agent 3 - Détection Anomalies",
+    "description": "Détection anomalies KPIs Attijari Bank T1 2024",
+    "period": "T1 2024",
+    "methodology": "Z-score + benchmarks sectoriels",
+    "total_kpis_analyzed": 15,
+    "anomalies_detected": 4,
+    "anomaly_rate": 26.666666666666668
+  },
+  "severity_breakdown": {
+    "Élevée": 3,
+    "Modérée": 1,
+    "Faible": 0
+  },
+  "type_breakdown": {
+    "Hors fourchette optimale": 1,
+    "Hors fourchette sectorielle": 3
+  },
+  "anomalies_detail": {
+    "roe_annualise": {
+      "value": 16.4,
+      "unit": "%",
+      "sector_range": [
+        8.0,
+        18.0
+      ],
+      "optimal_range": [
+        12.0,
+        16.0
+      ],
+      "z_score": 1.36,
+      "z_interpretation": "Modérément atypique",
+      "is_anomaly": true,
+      "anomaly_type": "Hors fourchette optimale",
+      "severity": "Modérée",
+      "position_percentile": 84.0,
+      "interpretation": "Rentabilité des capitaux propres",
+      "period": "T1 2024"
+    },
+    "roa_annualise": {
+      "value": 2.8,
+      "unit": "%",
+      "sector_range": [
+        0.8,
+        3.5
+      ],
+      "optimal_range": [
+        1.5,
+        2.8
+      ],
+      "z_score": 0.96,
+      "z_interpretation": "Normal",
+      "is_anomaly": false,
+      "anomaly_type": "Normal",
+      "severity": "Faible",
+      "position_percentile": 74.1,
+      "interpretation": "Rentabilité des actifs",
+      "period": "T1 2024"
+    },
+    "coefficient_exploitation": {
+      "value": 52.6,
+      "unit": "%",
+      "sector_range": [
+        45.0,
+        70.0
+      ],
+      "optimal_range": [
+        45.0,
+        55.0
+      ],
+      "z_score": -0.78,
+      "z_interpretation": "Normal",
+      "is_anomaly": false,
+      "anomaly_type": "Normal",
+      "severity": "Faible",
+      "position_percentile": 30.4,
+      "interpretation": "Efficacité opérationnelle (plus bas = mieux)",
+      "period": "T1 2024"
+    },
+    "taux_creances_douteuses": {
+      "value": 5.9,
+      "unit": "%",
+      "sector_range": [
+        3.0,
+        12.0
+      ],
+      "optimal_range": [
+        3.0,
+        7.0
+      ],
+      "z_score": -0.71,
+      "z_interpretation": "Normal",
+      "is_anomaly": false,
+      "anomaly_type": "Normal",
+      "severity": "Faible",
+      "position_percentile": 32.2,
+      "interpretation": "Qualité du portefeuille crédit (plus bas = mieux)",
+      "period": null
+    },
+    "taux_couverture_provisions": {
+      "value": 72.8,
+      "unit": "%",
+      "sector_range": [
+        50.0,
+        90.0
+      ],
+      "optimal_range": [
+        65.0,
+        80.0
+      ],
+      "z_score": 0.28,
+      "z_interpretation": "Normal",
+      "is_anomaly": false,
+      "anomaly_type": "Normal",
+      "severity": "Faible",
+      "position_percentile": 57.0,
+      "interpretation": "Provisionnement du risque crédit",
+      "period": null
+    },
+    "ratio_solvabilite": {
+      "value": 14.8,
+      "unit": "%",
+      "sector_range": [
+        10.0,
+        20.0
+      ],
+      "optimal_range": [
+        12.0,
+        16.0
+      ],
+      "z_score": -0.08,
+      "z_interpretation": "Normal",
+      "is_anomaly": false,
+      "anomaly_type": "Normal",
+      "severity": "Faible",
+      "position_percentile": 48.0,
+      "interpretation": "Solidité financière réglementaire",
+      "period": "31/03/2024"
+    },
+    "ratio_liquidite": {
+      "value": 125.4,
+      "unit": "%",
+      "sector_range": [
+        100.0,
+        150.0
+      ],
+      "optimal_range": [
+        110.0,
+        130.0
+      ],
+      "z_score": 0.03,
+      "z_interpretation": "Normal",
+      "is_anomaly": false,
+      "anomaly_type": "Normal",
+      "severity": "Faible",
+      "position_percentile": 50.8,
+      "interpretation": "Capacité à honorer les obligations",
+      "period": "31/03/2024"
+    },
+    "evolution_pnb": {
+      "value": 7.2,
+      "unit": "%",
+      "sector_range": [
+        2.0,
+        15.0
+      ],
+      "optimal_range": [
+        5.0,
+        10.0
+      ],
+      "z_score": -0.4,
+      "z_interpretation": "Normal",
+      "is_anomaly": false,
+      "anomaly_type": "Normal",
+      "severity": "Faible",
+      "position_percentile": 40.0,
+      "interpretation": "Croissance des revenus",
+      "period": "T1 2023 à T1 2024"
+    },
+    "evolution_depots": {
+      "value": 14.8,
+      "unit": "%",
+      "sector_range": [
+        3.0,
+        20.0
+      ],
+      "optimal_range": [
+        8.0,
+        15.0
+      ],
+      "z_score": 0.78,
+      "z_interpretation": "Normal",
+      "is_anomaly": false,
+      "anomaly_type": "Normal",
+      "severity": "Faible",
+      "position_percentile": 69.4,
+      "interpretation": "Croissance des ressources",
+      "period": "31/03/2024"
+    },
+    "ratio_transformation": {
+      "value": 83.8,
+      "unit": "%",
+      "sector_range": [
+        70.0,
+        95.0
+      ],
+      "optimal_range": [
+        75.0,
+        85.0
+      ],
+      "z_score": 0.21,
+      "z_interpretation": "Normal",
+      "is_anomaly": false,
+      "anomaly_type": "Normal",
+      "severity": "Faible",
+      "position_percentile": 55.2,
+      "interpretation": "Équilibre emplois/ressources",
+      "period": "31/03/2024"
+    },
+    "marge_commerciale": {
+      "value": 0.015,
+      "unit": "%",
+      "sector_range": [
+        10.0,
+        25.0
+      ],
+      "optimal_range": [
+        15.0,
+        20.0
+      ],
+      "z_score": -4.66,
+      "z_interpretation": "Très atypique",
+      "is_anomaly": true,
+      "anomaly_type": "Hors fourchette sectorielle",
+      "severity": "Élevée",
+      "position_percentile": 0,
+      "interpretation": "Part des commissions dans le PNB",
+      "period": "T1 2024"
+    },
+    "concentration_deposits": {
+      "value": 0.08,
+      "unit": "%",
+      "sector_range": [
+        65.0,
+        85.0
+      ],
+      "optimal_range": [
+        70.0,
+        80.0
+      ],
+      "z_score": -14.98,
+      "z_interpretation": "Très atypique",
+      "is_anomaly": true,
+      "anomaly_type": "Hors fourchette sectorielle",
+      "severity": "Élevée",
+      "position_percentile": 0,
+      "interpretation": "Poids des dépôts dans le bilan",
+      "period": "T1 2024"
+    },
+    "concentration_credits": {
+      "value": 66.9,
+      "unit": "%",
+      "sector_range": [
+        50.0,
+        80.0
+      ],
+      "optimal_range": [
+        60.0,
+        70.0
+      ],
+      "z_score": 0.25,
+      "z_interpretation": "Normal",
+      "is_anomaly": false,
+      "anomaly_type": "Normal",
+      "severity": "Faible",
+      "position_percentile": 56.3,
+      "interpretation": "Poids des crédits dans le bilan",
+      "period": "T1 2024"
+    },
+    "marge_nette_sur_pnb": {
+      "value": 0.1,
+      "unit": "%",
+      "sector_range": [
+        60.0,
+        85.0
+      ],
+      "optimal_range": [
+        70.0,
+        80.0
+      ],
+      "z_score": -11.58,
+      "z_interpretation": "Très atypique",
+      "is_anomaly": true,
+      "anomaly_type": "Hors fourchette sectorielle",
+      "severity": "Élevée",
+      "position_percentile": 0,
+      "interpretation": "Poids de la marge d'intérêt",
+      "period": "T1 2024"
+    },
+    "croissance_pnb_reelle": {
+      "value": 4.2,
+      "unit": "%",
+      "sector_range": [
+        1.0,
+        12.0
+      ],
+      "optimal_range": [
+        3.0,
+        8.0
+      ],
+      "z_score": -0.84,
+      "z_interpretation": "Normal",
+      "is_anomaly": false,
+      "anomaly_type": "Normal",
+      "severity": "Faible",
+      "position_percentile": 29.1,
+      "interpretation": "Croissance corrigée de l'inflation",
+      "period": "T1 2024"
+    }
+  },
+  "llm_interpretation": "**RÉSUMÉ EXÉCUTIF**\n\nLes anomalies détectées dans les KPIs d'Attijari Bank Tunisie (T1 2024) suggèrent des problèmes de rentabilité, de risque et de gestion des dépôts. Les anomalies principales sont :\n\n- Une rentabilité des capitaux propres (ROE) en dehors de la fourchette optimale (16,4%).\n- Des marges commerciales et nettes sur le PNB en dehors de la fourchette sectorielle (0,015% et 0,1%).\n- Une concentration des dépôts en dehors de la fourchette sectorielle (0,08%).\n\n**ANALYSE DÉTAILLÉE**\n\n### Rentabilité\n\n- **ROE_annualise** : La rentabilité des capitaux propres est en dehors de la fourchette optimale (8,0-18,0%). Cela suggère que la banque pourrait améliorer sa rentabilité en optimisant ses opérations et en réduisant ses coûts.\n- **Marge_commerciale** : Les marges commerciales sont en dehors de la fourchette sectorielle (10,0-25,0%). Cela suggère que la banque pourrait améliorer ses revenus en optimisant ses opérations commerciales et en augmentant ses marges.\n- **Marge_nette_sur_pnb** : Les marges nettes sur le PNB sont en dehors de la fourchette sectorielle (60,0-85,0%). Cela suggère que la banque pourrait améliorer ses revenus en optimisant ses opérations de crédit et en augmentant ses marges.\n\n### Risque\n\n- **Concentration_deposits** : La concentration des dépôts est en dehors de la fourchette sectorielle (65,0-85,0%). Cela suggère que la banque pourrait être vulnérable à des risques de liquidité et de crédit si elle perdait une partie importante de ses dépôts.\n\n### Interprétation MÉTIER\n\n- La rentabilité des capitaux propres (ROE) est un indicateur clé de la performance de la banque. Une rentabilité élevée suggère que la banque est efficace dans l'utilisation de ses capitaux propres.\n- Les marges commerciales et nettes sur le PNB sont des indicateurs de la rentabilité des opérations commerciales et de crédit de la banque.\n- La concentration des dépôts est un indicateur de la vulnérabilité de la banque à des risques de liquidité et de crédit.\n\n### Impact POTENTIEL\n\n- Les anomalies détectées pourraient avoir un impact négatif sur la performance de la banque, notamment en termes de rentabilité et de risque.\n- Une rentabilité élevée pourrait être atteinte en optimisant les opérations et en réduisant les coûts.\n- Les marges commerciales et nettes sur le PNB pourraient être améliorées en optimisant les opérations commerciales et en augmentant les marges.\n- La concentration des dépôts pourrait être réduite en diversifiant les dépôts et en améliorant la gestion des risques.\n\n### RECOMMANDATIONS d'actions correctives\n\n- Optimiser les opérations et réduire les coûts pour améliorer la rentabilité des capitaux propres (ROE).\n- Optimiser les opérations commerciales et augmenter les marges pour améliorer les marges commerciales et nettes sur le PNB.\n- Diversifier les dépôts et améliorer la gestion des risques pour réduire la concentration des dépôts.\n- Mettre en place des mécanismes de surveillance et de contrôle pour prévenir les anomalies futures.",
+  "statistical_summary": {
+    "z_score_threshold": 2.0,
+    "benchmark_source": "Secteur bancaire tunisien",
+    "detection_criteria": [
+      "Hors fourchette sectorielle",
+      "Hors fourchette optimale",
+      "Z-score > 2"
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "company": "INETUM TUNISIE",
+  "period": "T1 2024",
+  "calculation_info": {
+    "timestamp": "2025-08-19 14:18:59",
+    "input_kpis": 39,
+    "calculated_kpis": 19,
+    "success_rate": 100.0
+  },
+  "advanced_kpis": {
+    "resultat_operationnel": {
+      "name": "resultat_operationnel",
+      "value": 7130000.0,
+      "unit": "TND",
+      "formula": "chiffre_affaires_t1_2024 - charges_exploitation_t1_2024",
+      "source_kpis": [
+        "chiffre_affaires_t1_2024",
+        "charges_exploitation_t1_2024"
+      ],
+      "category": "rentabilité",
+      "interpretation": "Indique la rentabilité opérationnelle de l'entreprise",
+      "confidence": "high"
+    },
+    "resultat_net_estime": {
+      "name": "resultat_net_estime",
+      "value": 5347500.000000001,
+      "unit": "TND",
+      "formula": "chiffre_affaires_t1_2024 * marge_nette / 100",
+      "source_kpis": [
+        "chiffre_affaires_t1_2024",
+        "marge_nette"
+      ],
+      "category": "rentabilité",
+      "interpretation": "Le résultat net estimé représente la marge bénéficiaire de l'entreprise sur son chiffre d'affaires.",
+      "confidence": "high"
+    },
+    "croissance_absolue_ca": {
+      "name": "croissance_absolue_ca",
+      "value": 4750000.0,
+      "unit": "TND",
+      "formula": "chiffre_affaires_t1_2024 - chiffre_affaires_t1_2023",
+      "source_kpis": [
+        "chiffre_affaires_t1_2024",
+        "chiffre_affaires_t1_2023"
+      ],
+      "category": "croissance",
+      "interpretation": "Indique la variation absolue du chiffre d'affaires entre 2023 et 2024",
+      "confidence": "high"
+    },
+    "ca_annualise_2024": {
+      "name": "ca_annualise_2024",
+      "value": 115000000.0,
+      "unit": "TND",
+      "formula": "chiffre_affaires_t1_2024 * 4",
+      "source_kpis": [
+        "chiffre_affaires_t1_2024"
+      ],
+      "category": "projection",
+      "interpretation": "Le CA annualisé 2024 représente le chiffre d'affaires du premier trimestre 2024 multiplié par 4.",
+      "confidence": "high"
+    },
+    "charges_annualisees_2024": {
+      "name": "charges_annualisees_2024",
+      "value": 86480000.0,
+      "unit": "TND",
+      "formula": "charges_exploitation_t1_2024 * 4",
+      "source_kpis": [
+        "charges_exploitation_t1_2024"
+      ],
+      "category": "projection",
+      "interpretation": "Indique les charges annuelles 2024 de l'entreprise",
+      "confidence": "high"
+    },
+    "charges_par_collaborateur": {
+      "name": "charges_par_collaborateur",
+      "value": 14910.344827586207,
+      "unit": "TND/collaborateur",
+      "formula": "charges_exploitation_t1_2024 / effectif_total",
+      "source_kpis": [
+        "charges_exploitation_t1_2024",
+        "effectif_total"
+      ],
+      "category": "productivité",
+      "interpretation": "Indique le coût moyen par collaborateur pour l'entreprise",
+      "confidence": "high"
+    },
+    "ca_par_effectif": {
+      "name": "ca_par_effectif",
+      "value": 19827.58620689655,
+      "unit": "TND/collaborateur",
+      "formula": "chiffre_affaires_t1_2024 / effectif_total",
+      "source_kpis": [
+        "chiffre_affaires_t1_2024",
+        "effectif_total"
+      ],
+      "category": "productivité",
+      "interpretation": "Indique le chiffre d'affaires moyen par collaborateur de l'entreprise",
+      "confidence": "high"
+    },
+    "intensite_capital_humain": {
+      "name": "intensite_capital_humain",
+      "value": 58.608695652173914,
+      "unit": "%",
+      "formula": "(charges_personnel_t1_2024 / chiffre_affaires_t1_2024) * 100",
+      "source_kpis": [
+        "charges_personnel_t1_2024",
+        "chiffre_affaires_t1_2024"
+      ],
+      "category": "productivité",
+      "interpretation": "Indique le pourcentage de charges personnel par rapport au chiffre d'affaires",
+      "confidence": "high"
+    },
+    "ratio_liquidite": {
+      "name": "ratio_liquidite",
+      "value": 32.69957983193277,
+      "unit": "%",
+      "formula": "(tresorerie / total_bilan) * 100",
+      "source_kpis": [
+        "tresorerie",
+        "total_bilan"
+      ],
+      "category": "structure",
+      "interpretation": "Ce ratio indique le pourcentage de liquidité de l'entreprise par rapport à son total bilan.",
+      "confidence": "high"
+    },
+    "poids_creances": {
+      "name": "poids_creances",
+      "value": 47.92016806722689,
+      "unit": "%",
+      "formula": "(creances_clients / total_bilan) * 100",
+      "source_kpis": [
+        "creances_clients",
+        "total_bilan"
+      ],
+      "category": "structure",
+      "interpretation": "Indique le poids des créances clients dans le total du bilan de l'entreprise",
+      "confidence": "high"
+    },
+    "ratio_immobilisations": {
+      "name": "ratio_immobilisations",
+      "value": 19.380252100840337,
+      "unit": "%",
+      "formula": "(actifs_immobilises / total_bilan) * 100",
+      "source_kpis": [
+        "actifs_immobilises",
+        "total_bilan"
+      ],
+      "category": "structure",
+      "interpretation": "Ce ratio indique le pourcentage d'actifs immobilisés par rapport au total bilan de l'entreprise.",
+      "confidence": "high"
+    },
+    "part_developpement_ca": {
+      "name": "part_developpement_ca",
+      "value": 44.0,
+      "unit": "%",
+      "formula": "(ca_developpement_applications / chiffre_affaires_t1_2024) * 100",
+      "source_kpis": [
+        "ca_developpement_applications",
+        "chiffre_affaires_t1_2024"
+      ],
+      "category": "répartition",
+      "interpretation": "Indique le pourcentage du chiffre d'affaires total généré par le développement d'applications",
+      "confidence": "high"
+    },
+    "part_cloud_ca": {
+      "name": "part_cloud_ca",
+      "value": 30.0,
+      "unit": "%",
+      "formula": "(ca_infrastructure_cloud / chiffre_affaires_t1_2024) * 100",
+      "source_kpis": [
+        "ca_infrastructure_cloud",
+        "chiffre_affaires_t1_2024"
+      ],
+      "category": "répartition",
+      "interpretation": "Indique la part du chiffre d'affaires généré par les infrastructures cloud",
+      "confidence": "high"
+    },
+    "part_conseil_ca": {
+      "name": "part_conseil_ca",
+      "value": 12.0,
+      "unit": "%",
+      "formula": "(ca_conseil_transformation / chiffre_affaires_t1_2024) * 100",
+      "source_kpis": [
+        "ca_conseil_transformation",
+        "chiffre_affaires_t1_2024"
+      ],
+      "category": "répartition",
+      "interpretation": "Indique la part du conseil dans le chiffre d'affaires total de l'entreprise",
+      "confidence": "high"
+    },
+    "part_services_financiers": {
+      "name": "part_services_financiers",
+      "value": 35.001739130434785,
+      "unit": "%",
+      "formula": "(ca_services_financiers / chiffre_affaires_t1_2024) * 100",
+      "source_kpis": [
+        "ca_services_financiers",
+        "chiffre_affaires_t1_2024"
+      ],
+      "category": "clients",
+      "interpretation": "Indique la part des services financiers dans le chiffre d'affaires total de l'entreprise",
+      "confidence": "high"
+    },
+    "part_telecom": {
+      "name": "part_telecom",
+      "value": 25.001739130434782,
+      "unit": "%",
+      "formula": "(ca_telecommunications / chiffre_affaires_t1_2024) * 100",
+      "source_kpis": [
+        "ca_telecommunications",
+        "chiffre_affaires_t1_2024"
+      ],
+      "category": "clients",
+      "interpretation": "Indique la part du chiffre d'affaires généré par les télécommunications dans l'ensemble du chiffre d'affaires de l'entreprise",
+      "confidence": "high"
+    },
+    "part_secteur_public": {
+      "name": "part_secteur_public",
+      "value": 20.0,
+      "unit": "%",
+      "formula": "(ca_secteur_public / chiffre_affaires_t1_2024) * 100",
+      "source_kpis": [
+        "ca_secteur_public",
+        "chiffre_affaires_t1_2024"
+      ],
+      "category": "clients",
+      "interpretation": "Indique la part du chiffre d'affaires généré par le secteur public dans le chiffre d'affaires total de l'entreprise",
+      "confidence": "high"
+    },
+    "ratio_rd_ca": {
+      "name": "ratio_rd_ca",
+      "value": 6.434782608695652,
+      "unit": "%",
+      "formula": "(budget_rd / chiffre_affaires_t1_2024) * 100",
+      "source_kpis": [
+        "budget_rd",
+        "chiffre_affaires_t1_2024"
+      ],
+      "category": "innovation",
+      "interpretation": "Ce ratio indique le pourcentage du chiffre d'affaires alloué au budget R&D.",
+      "confidence": "high"
+    },
+    "certifications_par_collaborateur": {
+      "name": "certifications_par_collaborateur",
+      "value": 0.19655172413793104,
+      "unit": "certifications/collaborateurs",
+      "formula": "certifications_obtenues / effectif_total",
+      "source_kpis": [
+        "certifications_obtenues",
+        "effectif_total"
+      ],
+      "category": "formation",
+      "interpretation": "Indique le nombre moyen de certifications obtenues par collaborateur",
+      "confidence": "high"
+    }
+  }
+}

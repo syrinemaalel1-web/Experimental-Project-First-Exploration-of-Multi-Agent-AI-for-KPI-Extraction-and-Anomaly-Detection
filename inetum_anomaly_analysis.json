@@ -1,0 +1,166 @@
+{
+  "company": "INETUM TUNISIE",
+  "period": "T1 2024",
+  "analysis_info": {
+    "timestamp": "2025-08-19 15:08:31",
+    "total_kpis_analyzed": 58,
+    "base_kpis_count": 39,
+    "advanced_kpis_count": 19,
+    "overall_quality_score": 92.24137931034483
+  },
+  "anomaly_summary": {
+    "total_anomalies": 4,
+    "critical_anomalies": 4,
+    "consistency_checks": 6,
+    "inconsistencies_found": 1
+  },
+  "anomalies": [
+    {
+      "kpi_name": "charges_par_collaborateur",
+      "value": 14910.344827586207,
+      "z_score": 0.0,
+      "severity": "CRITIQUE",
+      "anomaly_type": "OUTLIER_HIGH",
+      "category": "productivité",
+      "explanation": "Cette valeur anormale de 14 910,34 TND/collaborateur pour les charges par collaborateur est probablement due à une augmentation significative des dépenses opérationnelles, telles que les coûts de personnel, les frais de bureaux, les dépenses de matériel et de logiciel, ou encore les coûts de formation et de développement. Cette augmentation pourrait être liée à une stratégie d'expansion rapide de l'entreprise, à une augmentation de la taille de l'équipe ou à une modification de la structure organisationnelle.",
+      "recommendation": "",
+      "confidence": "high",
+      "statistical_context": {
+        "benchmark_min": 12.0,
+        "benchmark_median": 18.0,
+        "benchmark_max": 28.0,
+        "deviation_percent": 53151.231527093594
+      }
+    },
+    {
+      "kpi_name": "chiffre_affaires_t1_2024",
+      "value": 28750000.0,
+      "z_score": 2.4330095971425694,
+      "severity": "CRITIQUE",
+      "anomaly_type": "OUTLIER_HIGH",
+      "category": "performance",
+      "explanation": "Cette valeur est anormale car elle est significativement supérieure à la moyenne de la catégorie (performance) et à la moyenne du secteur ESN. Le chiffre d'affaires de Inetum Tunisie pour le T1 2024 est de 28 750 000 TND, ce qui représente une augmentation importante par rapport à la moyenne de la catégorie (772 5021,24 TND) et à la moyenne du secteur ESN (non disponible). Cette anomalie peut indiquer une performance exceptionnelle de l'entreprise, mais également une vulnérabilité potentielle si cette tendance ne se maintient pas.",
+      "recommendation": "1. **Analyser les données de vente** : Il est important d'analyser les données de vente pour comprendre les facteurs qui ont contribué à cette anomalie. 2. **Évaluer la viabilité de la stratégie** : Il est important d'évaluer la viabilité de la stratégie marketing et de déterminer si elle peut être maintenue à long terme. 3. **Préparer les ressources humaines** : Il est important de préparer les ressources humaines pour gérer l'augmentation des ventes et éviter les difficultés de production.",
+      "confidence": "high",
+      "statistical_context": {
+        "category_mean": 7725021.2375,
+        "category_std": 8641551.922850052,
+        "category_size": 16.0
+      }
+    },
+    {
+      "kpi_name": "creances_clients",
+      "value": 45620000.0,
+      "z_score": 2.4092606170695876,
+      "severity": "CRITIQUE",
+      "anomaly_type": "OUTLIER_HIGH",
+      "category": "autre",
+      "explanation": "Cette valeur est anormale car elle est significativement supérieure à la moyenne de la catégorie (8227151,6 TND) et à la moyenne du secteur (non disponible). Le Z-Score de 2,4092606170695876 indique que la valeur est à 2,4 fois la moyenne, ce qui est considéré comme anormal. Dans le contexte ESN, les créances clients sont généralement stables et prévisibles, et une augmentation soudaine de 45620000,0 TND est susceptible d'être due à une anomalie.",
+      "recommendation": "1. **Vérification des données** : vérifier les données de comptabilisation pour s'assurer qu'elles sont correctes et que l'augmentation des créances clients n'est pas due à une erreur. 2. **Analyse des nouveaux contrats ou projets** : analyser les nouveaux contrats ou projets pour s'assurer qu'ils sont conformes aux attentes et que les créances clients sont bien gérées. 3. **Suivi des problèmes de facturation** : suivre les problèmes de facturation pour s'assurer que les créances clients sont bien gérées et que les clients sont payés à temps.",
+      "confidence": "high",
+      "statistical_context": {
+        "category_mean": 8227151.600000001,
+        "category_std": 15520466.376726553,
+        "category_size": 7.0
+      }
+    },
+    {
+      "kpi_name": "resultat_operationnel",
+      "value": 7130000.0,
+      "z_score": 2.034472021314273,
+      "severity": "CRITIQUE",
+      "anomaly_type": "OUTLIER_HIGH",
+      "category": "rentabilité",
+      "explanation": "Cette valeur est anormale car elle est significativement supérieure à la moyenne de la catégorie (rentabilité) et à la moyenne du secteur ESN. Le Z-Score de 2,034472021314273 indique que la valeur est 2 fois supérieure à la moyenne, ce qui est considéré comme anormal. Cela suggère que le résultat opérationnel de Inetum Tunisie est exceptionnellement élevé par rapport aux autres entreprises du secteur.",
+      "recommendation": "1. **Analyser les activités de développement** : Examiner les projets de développement réalisés par Inetum Tunisie pour comprendre les facteurs qui ont contribué à son résultat opérationnel élevé. 2. **Évaluer la croissance du chiffre d'affaires** : Vérifier si la croissance du chiffre d'affaires est durable et si elle est en phase avec les objectifs de l'entreprise. 3. **Optimiser les coûts** : Continuer à mettre en place des mesures d'optimisation des coûts pour maintenir un niveau élevé de rentabilité.",
+      "confidence": "high",
+      "statistical_context": {
+        "category_mean": 1559702.5625,
+        "category_std": 2737957.2582677132,
+        "category_size": 8.0
+      }
+    }
+  ],
+  "consistency_checks": [
+    {
+      "check_name": "coherence_ca_total",
+      "kpis_involved": [
+        "ca_developpement_applications",
+        "ca_infrastructure_cloud",
+        "ca_conseil_transformation"
+      ],
+      "expected_relationship": "CA total = somme des CA par secteur d'activité = 24725000.00",
+      "actual_relationship": "Valeur réelle = 28750000.00",
+      "is_consistent": false,
+      "deviation_percentage": 14.000000000000002,
+      "explanation": "Écart de 14.0% par rapport à l'attendu",
+      "severity": "MODÉRÉ"
+    },
+    {
+      "check_name": "coherence_marge_operationnelle",
+      "kpis_involved": [
+        "chiffre_affaires_t1_2024",
+        "charges_exploitation_t1_2024"
+      ],
+      "expected_relationship": "Marge opérationnelle = (CA - Charges) / CA * 100 = 24.80",
+      "actual_relationship": "Valeur réelle = 24.80",
+      "is_consistent": true,
+      "deviation_percentage": 0.0,
+      "explanation": "Écart de 0.0% par rapport à l'attendu",
+      "severity": "NORMAL"
+    },
+    {
+      "check_name": "coherence_charges_personnel",
+      "kpis_involved": [
+        "charges_personnel_t1_2024"
+      ],
+      "expected_relationship": "Charges personnel <= Charges totales = 16850000.00",
+      "actual_relationship": "Valeur réelle = 21620000.00",
+      "is_consistent": true,
+      "deviation_percentage": 0.0,
+      "explanation": "Écart de 0.0% par rapport à l'attendu",
+      "severity": "NORMAL"
+    },
+    {
+      "check_name": "coherence_ca_par_collaborateur",
+      "kpis_involved": [
+        "chiffre_affaires_t1_2024",
+        "effectif_total"
+      ],
+      "expected_relationship": "CA par collaborateur = CA total / Effectif = 19.83",
+      "actual_relationship": "Valeur réelle = 19.80",
+      "is_consistent": true,
+      "deviation_percentage": 0.13932427725530752,
+      "explanation": "Écart de 0.1% par rapport à l'attendu",
+      "severity": "NORMAL"
+    },
+    {
+      "check_name": "coherence_bilan",
+      "kpis_involved": [
+        "creances_clients",
+        "tresorerie",
+        "actifs_immobilises"
+      ],
+      "expected_relationship": "Créances + Trésorerie + Immobilisations <= Total bilan = 95200000.00",
+      "actual_relationship": "Valeur réelle = 95200000.00",
+      "is_consistent": true,
+      "deviation_percentage": 0.0,
+      "explanation": "Écart de 0.0% par rapport à l'attendu",
+      "severity": "NORMAL"
+    },
+    {
+      "check_name": "coherence_parts_secteurs",
+      "kpis_involved": [
+        "part_services_financiers",
+        "part_telecom",
+        "part_secteur_public"
+      ],
+      "expected_relationship": "Somme des parts sectorielles = 100% = 80.00",
+      "actual_relationship": "Valeur réelle = 80.00",
+      "is_consistent": true,
+      "deviation_percentage": 0.00434782608696338,
+      "explanation": "Écart de 0.0% par rapport à l'attendu",
+      "severity": "NORMAL"
+    }
+  ]
+}

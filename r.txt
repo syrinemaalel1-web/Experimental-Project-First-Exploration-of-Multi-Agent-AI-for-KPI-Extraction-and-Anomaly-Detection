@@ -1,0 +1,5 @@
+# Requirements pour Agent 4 - Générateur de Rapport PDF
+reportlab>=4.0.0
+langchain-openai>=0.1.0
+langchain>=0.2.0
+openai>=1.0.0

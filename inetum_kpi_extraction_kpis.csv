@@ -1,0 +1,53 @@
+KPI_Name;Value;Unit;Period;Confidence;Found;Category
+chiffre_affaires_t1_2024;28750000;TND;T1 2024;high;Oui;performance
+chiffre_affaires_t1_2023;24000000;TND;T1 2023;high;Oui;performance
+croissance_ca;18.5;%;T1 2023 et T1 2024;high;Oui;performance
+charges_exploitation_t1_2024;21620000;TND;T1 2024;high;Oui;charges
+charges_personnel_t1_2024;16850000;TND;T1 2024;high;Oui;charges
+sous_traitance_externe;2450000;TND;T1 2024;high;Oui;charges
+charges_generales;1685000;TND;T1 2024;high;Oui;charges
+marge_operationnelle;24.8;%;T1 2024;high;Oui;rentabilité
+marge_nette;18.6;%;T1 2024;high;Oui;rentabilité
+roe_annualise;22.3;%;T1 2024;high;Oui;rentabilité
+roa_annualise;10.1;%;T1 2023;high;Oui;rentabilité
+total_bilan;95200000;TND;au 31 mars 2024;high;Oui;bilan
+creances_clients;45620000;TND;31/03/2024;high;Oui;bilan
+tresorerie;31130000;TND;Bilan;high;Oui;bilan
+actifs_immobilises;18450000;TND;31/03/2024;high;Oui;bilan
+ca_developpement_applications;12650000;TND;T1 2024;high;Oui;secteurs
+ca_infrastructure_cloud;8625000;TND;T1 2024;high;Oui;secteurs
+ca_conseil_transformation;3450000;TND;T1 2024;high;Oui;secteurs
+effectif_total;1450;collaborateurs;au 31 mars 2024;high;Oui;rh
+croissance_effectif;15.2;%;31 mars 2024 par rapport à 31 mars 2023;high;Oui;rh
+ingenieurs_developpement;Information non disponible;;;not_found;Non;rh
+architectes_tech_leads;Information non disponible;;;not_found;Non;rh
+consultants_fonctionnels;Information non disponible;;;not_found;Non;rh
+support_infrastructure;Information non disponible;;;not_found;Non;rh
+management_administration;Information non disponible;;;not_found;Non;rh
+ca_par_collaborateur;19.8;kTND;T1 2024;medium;Oui;productivité
+taux_utilisation;Information non disponible;;;not_found;Non;productivité
+delai_paiement_clients;58;jours;T1 2024;high;Oui;productivité
+rotation_stocks;Information non disponible;;;not_found;Non;productivité
+taux_creances_douteuses;3.2;%;non mentionnée;high;Oui;productivité
+ca_tunisie;17250000;TND;Premier trimestre 2024;high;Oui;géographie
+ca_france_offshore;Information non disponible;;;not_found;Non;géographie
+ca_autres_pays_europeens;Information non disponible;;;not_found;Non;géographie
+ca_services_financiers;10063000;TND;T1 2024;high;Oui;secteurs_clients
+ca_telecommunications;7188000;TND;T1 2024;high;Oui;secteurs_clients
+ca_secteur_public;5750000;TND;T1 2024;high;Oui;secteurs_clients
+ca_industrie;3450000;TND;T1 2024;high;Oui;secteurs_clients
+ca_commerce_distribution;2299000;TND;T1 2024;high;Oui;secteurs_clients
+budget_rd;1850000;TND;T1 2024;high;Oui;innovation
+heures_formation;Information non disponible;;;not_found;Non;innovation
+certifications_obtenues;285;certifications;au 31 mars 2024;high;Oui;innovation
+brevets_deposes;Information non disponible;;;not_found;Non;innovation
+investissements_it_total;Information non disponible;;;not_found;Non;investissements
+investissement_cloud;650000;TND;T1 2024;high;Oui;investissements
+investissement_cybersecurite;370000;TND;T1 2024;high;Oui;investissements
+investissement_ia_analytics;Information non disponible;;;not_found;Non;investissements
+investissement_formation_certifications;125000;TND;non mentionnée;high;Oui;investissements
+objectif_croissance_ca_2024;15-18;%;exercice 2024;high;Oui;objectifs
+objectif_marge_operationnelle_2024;22.4;%;2024;high;Oui;objectifs
+objectif_roe_2024;22.3;%;Exercice 2024;high;Oui;objectifs
+objectif_expansion_effectif_2024;200;collaborateurs;2024;high;Oui;objectifs
+objectif_investissements_techno_2024;8500000;TND;2024;high;Oui;objectifs 

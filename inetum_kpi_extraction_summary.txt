@@ -1,0 +1,95 @@
+
+🎯 DASHBOARD KPIs - INETUM TUNISIE T1 2024
+==================================================
+📅 Période: Premier trimestre 2024
+🏢 Société: Inetum Tunisie - Services numériques
+📊 Extraction: 47 KPIs fiables trouvés
+
+💰 PERFORMANCE FINANCIÈRE:
+   • Chiffre Affaires T1 2024: 28 750 000 TND
+   • Chiffre Affaires T1 2023: 24 000 000 TND
+   • Croissance Ca: 18,5 %
+   • Marge Operationnelle: 24,8 %
+   • Marge Nette: 18,6 %
+   • Roe Annualise: 22,3 %
+   • Roa Annualise: 10,1 %
+   • Ebitda: 7765 TND
+   • Capitaux Propres: 52 400 TND
+   • Ca Developpement Applications: 12 650 milliers TND
+   • Ca Infrastructure Cloud: 650 milliers TND
+   • Ca Cybersecurite: 10 063 milliers TND
+   • Ca Conseil Transformation: 3 450 milliers TND
+   • Ca Par Collaborateur: 19 800 kTND
+   • Ca Tunisie: 17 250 milliers TND
+   • Ca Services Financiers: 10 063 milliers TND
+   • Ca Telecommunications: 7 188 milliers TND
+   • Ca Secteur Public: 5 750 milliers TND
+   • Ca Industrie: 3 450 milliers TND
+   • Ca Commerce Distribution: 2 299 milliers TND
+   • Certifications Obtenues: 285 certifications
+   • Investissement Formation Certifications: 125 000 milliers TND
+   • Objectif Croissance Ca 2024: 15 à 18 pour cent
+   • Objectif Marge Operationnelle 2024: 22,4 %
+   • Objectif Roe 2024: 22,3 %
+
+🏦 STRUCTURE BILAN:
+   • Total Bilan: 95 200 000 TND
+   • Creances Clients: 45 620 milliers TND
+   • Tresorerie: 31130 milliers TND
+   • Taux Creances Douteuses: 3,2 %
+
+👥 RESSOURCES HUMAINES:
+   • Effectif Total: 1 450 collaborateurs
+   • Croissance Effectif: 15,2 %
+   • Objectif Expansion Effectif 2024: 200 collaborateurs
+
+💻 ACTIVITÉS SECTORIELLES:
+   • Investissement Cloud: 650 milliers TND
+   • Investissement Outils Developpement: 480 000 milliers TND
+   • Investissement Cybersecurite: 370 milliers TND
+
+📊 AUTRES INDICATEURS:
+   • Charges Exploitation T1 2024: 21 620 000 TND
+   • Charges Personnel T1 2024: 16 850 milliers TND
+   • Sous Traitance Externe: 2 450 milliers TND
+   • Charges Generales: 1 685 milliers TND
+   • Amortissements: 635 amortissements
+   • Actifs Immobilises: 18 450 milliers TND
+   • Materiel Informatique: 95 200 000 TND
+   • Dettes Totales: 95 200 000 TND
+   • Delai Paiement Clients: 58 jours
+   • Budget Rd: 1 850 000 TND
+   • Nouveaux Contrats Signes: 45 200 000 millions TND
+   • Objectif Investissements Techno 2024: 8 500 000 TND
+
+==================================================
+📈 Taux de succès: 78.3%
+🕐 Extraction: 2025-08-19 11:10:36
+
+
+
+📋 RÉSUMÉ EXÉCUTIF - INETUM TUNISIE T1 2024
+==================================================
+
+🏢 ENTREPRISE: Inetum Tunisie - Services numériques et d'ingénierie
+📍 SIÈGE: Les Berges du Lac II, 1053 Tunis
+💰 CAPITAL: 25 000 000 TND
+
+🎯 POINTS CLÉS IDENTIFIÉS:
+• Chiffre d'Affaires: 28 750 000 TND
+• Croissance: 18,5%
+• Effectifs: 1 450 collaborateurs
+• Marge Opérationnelle: 24,8%
+
+📊 DONNÉES EXTRAITES:
+• 47 KPIs fiables identifiés
+• 6 secteurs d'activité analysés
+• Taux de succès extraction: 78.3%
+
+🎯 SECTEURS IDENTIFIÉS:
+• Développement d'applications
+• Infrastructure & Cloud  
+• Cybersécurité
+• Conseil & Transformation digitale
+
+⏰ Extraction effectuée le 2025-08-19 11:10:36

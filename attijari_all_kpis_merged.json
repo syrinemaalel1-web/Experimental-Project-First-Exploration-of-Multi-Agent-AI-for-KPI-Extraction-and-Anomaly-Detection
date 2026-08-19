@@ -1,0 +1,399 @@
+{
+  "extraction_info": {
+    "timestamp": "2025-08-12 22:11:58",
+    "description": "Fusion KPIs standards et avancés - Attijari Bank T1 2024",
+    "total_kpis": 24,
+    "kpis_found": 23,
+    "success_rate": 95.83333333333334
+  },
+  "kpis_standards": {
+    "produit_net_bancaire": {
+      "name": "produit_net_bancaire",
+      "value": "125 850 000",
+      "unit": "milliers TND",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "roe_annualise": {
+      "name": "roe_annualise",
+      "value": "16,4%",
+      "unit": "%",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "roa_annualise": {
+      "name": "roa_annualise",
+      "value": "2,8%",
+      "unit": "%",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "coefficient_exploitation": {
+      "name": "coefficient_exploitation",
+      "value": "52,6",
+      "unit": "%",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "total_bilan": {
+      "name": "total_bilan",
+      "value": "8 750 000 000",
+      "unit": "milliers TND",
+      "period": "31 mars 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "creances_clientele": {
+      "name": "creances_clientele",
+      "value": "5 850 450 000",
+      "unit": "milliers TND",
+      "period": "31 mars 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "depots_clientele": {
+      "name": "depots_clientele",
+      "value": "6 985 500",
+      "unit": "milliers TND",
+      "period": "31 mars 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "taux_creances_douteuses": {
+      "name": "taux_creances_douteuses",
+      "value": "5,9%",
+      "unit": "%",
+      "period": null,
+      "source_found": true,
+      "confidence": "high"
+    },
+    "taux_couverture_provisions": {
+      "name": "taux_couverture_provisions",
+      "value": "72,8%",
+      "unit": "%",
+      "period": null,
+      "source_found": true,
+      "confidence": "high"
+    },
+    "ratio_solvabilite": {
+      "name": "ratio_solvabilite",
+      "value": "14,8%",
+      "unit": "%",
+      "period": "31/03/2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "ratio_liquidite": {
+      "name": "ratio_liquidite",
+      "value": "125,4%",
+      "unit": "%",
+      "period": "31/03/2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "evolution_pnb": {
+      "name": "evolution_pnb",
+      "value": "7,2%",
+      "unit": "%",
+      "period": "T1 2023 à T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "evolution_depots": {
+      "name": "evolution_depots",
+      "value": "14,8%",
+      "unit": "%",
+      "period": "31/03/2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "evolution_credits": {
+      "name": "evolution_credits",
+      "value": "+4,0%",
+      "unit": "%",
+      "period": "2024 par rapport à 2023",
+      "source_found": true,
+      "confidence": "medium"
+    }
+  },
+  "kpis_advanced": {
+    "marge_nette_interet": {
+      "name": "marge_nette_interet",
+      "value": "98 450",
+      "unit": "milliers TND",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "ratio_transformation": {
+      "name": "ratio_transformation",
+      "value": "83,8%",
+      "unit": "%",
+      "period": "31/03/2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "provisions_collectives": {
+      "name": "provisions_collectives",
+      "value": "345 278 000",
+      "unit": "TND",
+      "period": null,
+      "source_found": true,
+      "confidence": "high"
+    },
+    "fonds_propres_tier1": {
+      "name": "fonds_propres_tier1",
+      "value": "Information non disponible",
+      "unit": null,
+      "period": null,
+      "source_found": false,
+      "confidence": "not_found"
+    },
+    "commissions_nettes": {
+      "name": "commissions_nettes",
+      "value": "18 950",
+      "unit": "milliers TND",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "charges_personnel": {
+      "name": "charges_personnel",
+      "value": "450",
+      "unit": "milliers TND",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "dotations_amortissements": {
+      "name": "dotations_amortissements",
+      "value": "852",
+      "unit": "milliers TND",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "resultat_operations_financieres": {
+      "name": "resultat_operations_financieres",
+      "value": "8 450",
+      "unit": "milliers TND",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "medium"
+    },
+    "creances_etablissements": {
+      "name": "creances_etablissements",
+      "value": "345 278 000",
+      "unit": "milliers TND",
+      "period": null,
+      "source_found": true,
+      "confidence": "high"
+    },
+    "portefeuille_titres": {
+      "name": "portefeuille_titres",
+      "value": "1 085 600",
+      "unit": "milliers TND",
+      "period": "31/03/2024",
+      "source_found": true,
+      "confidence": "high"
+    }
+  },
+  "all_kpis": {
+    "produit_net_bancaire": {
+      "name": "produit_net_bancaire",
+      "value": "125 850 000",
+      "unit": "milliers TND",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "roe_annualise": {
+      "name": "roe_annualise",
+      "value": "16,4%",
+      "unit": "%",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "roa_annualise": {
+      "name": "roa_annualise",
+      "value": "2,8%",
+      "unit": "%",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "coefficient_exploitation": {
+      "name": "coefficient_exploitation",
+      "value": "52,6",
+      "unit": "%",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "total_bilan": {
+      "name": "total_bilan",
+      "value": "8 750 000 000",
+      "unit": "milliers TND",
+      "period": "31 mars 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "creances_clientele": {
+      "name": "creances_clientele",
+      "value": "5 850 450 000",
+      "unit": "milliers TND",
+      "period": "31 mars 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "depots_clientele": {
+      "name": "depots_clientele",
+      "value": "6 985 500",
+      "unit": "milliers TND",
+      "period": "31 mars 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "taux_creances_douteuses": {
+      "name": "taux_creances_douteuses",
+      "value": "5,9%",
+      "unit": "%",
+      "period": null,
+      "source_found": true,
+      "confidence": "high"
+    },
+    "taux_couverture_provisions": {
+      "name": "taux_couverture_provisions",
+      "value": "72,8%",
+      "unit": "%",
+      "period": null,
+      "source_found": true,
+      "confidence": "high"
+    },
+    "ratio_solvabilite": {
+      "name": "ratio_solvabilite",
+      "value": "14,8%",
+      "unit": "%",
+      "period": "31/03/2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "ratio_liquidite": {
+      "name": "ratio_liquidite",
+      "value": "125,4%",
+      "unit": "%",
+      "period": "31/03/2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "evolution_pnb": {
+      "name": "evolution_pnb",
+      "value": "7,2%",
+      "unit": "%",
+      "period": "T1 2023 à T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "evolution_depots": {
+      "name": "evolution_depots",
+      "value": "14,8%",
+      "unit": "%",
+      "period": "31/03/2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "evolution_credits": {
+      "name": "evolution_credits",
+      "value": "+4,0%",
+      "unit": "%",
+      "period": "2024 par rapport à 2023",
+      "source_found": true,
+      "confidence": "medium"
+    },
+    "marge_nette_interet": {
+      "name": "marge_nette_interet",
+      "value": "98 450",
+      "unit": "milliers TND",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "ratio_transformation": {
+      "name": "ratio_transformation",
+      "value": "83,8%",
+      "unit": "%",
+      "period": "31/03/2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "provisions_collectives": {
+      "name": "provisions_collectives",
+      "value": "345 278 000",
+      "unit": "TND",
+      "period": null,
+      "source_found": true,
+      "confidence": "high"
+    },
+    "fonds_propres_tier1": {
+      "name": "fonds_propres_tier1",
+      "value": "Information non disponible",
+      "unit": null,
+      "period": null,
+      "source_found": false,
+      "confidence": "not_found"
+    },
+    "commissions_nettes": {
+      "name": "commissions_nettes",
+      "value": "18 950",
+      "unit": "milliers TND",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "charges_personnel": {
+      "name": "charges_personnel",
+      "value": "450",
+      "unit": "milliers TND",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "dotations_amortissements": {
+      "name": "dotations_amortissements",
+      "value": "852",
+      "unit": "milliers TND",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "resultat_operations_financieres": {
+      "name": "resultat_operations_financieres",
+      "value": "8 450",
+      "unit": "milliers TND",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "medium"
+    },
+    "creances_etablissements": {
+      "name": "creances_etablissements",
+      "value": "345 278 000",
+      "unit": "milliers TND",
+      "period": null,
+      "source_found": true,
+      "confidence": "high"
+    },
+    "portefeuille_titres": {
+      "name": "portefeuille_titres",
+      "value": "1 085 600",
+      "unit": "milliers TND",
+      "period": "31/03/2024",
+      "source_found": true,
+      "confidence": "high"
+    }
+  }
+}

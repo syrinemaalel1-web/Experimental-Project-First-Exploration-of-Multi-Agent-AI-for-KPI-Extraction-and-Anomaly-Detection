@@ -1,0 +1,336 @@
+{
+  "company": "INETUM TUNISIE",
+  "period": "T1 2024",
+  "extraction_info": {
+    "timestamp": "2025-08-19 11:10:36",
+    "total_requested": 52,
+    "total_found": 39,
+    "success_rate": 75.0,
+    "corrections_applied": true,
+    "false_kpis_removed": 8,
+    "removed_kpis": [
+      "ca_cybersecurite",
+      "materiel_informatique", 
+      "dettes_totales",
+      "capitaux_propres",
+      "amortissements",
+      "ebitda",
+      "nouveaux_contrats_signes",
+      "investissement_outils_developpement"
+    ]
+  },
+  "kpis": {
+    "chiffre_affaires_t1_2024": {
+      "name": "chiffre_affaires_t1_2024",
+      "value": "28750000",
+      "unit": "TND",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "chiffre_affaires_t1_2023": {
+      "name": "chiffre_affaires_t1_2023",
+      "value": "24000000",
+      "unit": "TND",
+      "period": "T1 2023",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "croissance_ca": {
+      "name": "croissance_ca",
+      "value": "18.5",
+      "unit": "%",
+      "period": "T1 2023 et T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "charges_exploitation_t1_2024": {
+      "name": "charges_exploitation_t1_2024",
+      "value": "21620000",
+      "unit": "TND",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "charges_personnel_t1_2024": {
+      "name": "charges_personnel_t1_2024",
+      "value": "16850000",
+      "unit": "TND",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "sous_traitance_externe": {
+      "name": "sous_traitance_externe",
+      "value": "2450000",
+      "unit": "TND",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "charges_generales": {
+      "name": "charges_generales",
+      "value": "1685000",
+      "unit": "TND",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "marge_operationnelle": {
+      "name": "marge_operationnelle",
+      "value": "24.8",
+      "unit": "%",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "marge_nette": {
+      "name": "marge_nette",
+      "value": "18.6",
+      "unit": "%",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "roe_annualise": {
+      "name": "roe_annualise",
+      "value": "22.3",
+      "unit": "%",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "roa_annualise": {
+      "name": "roa_annualise",
+      "value": "10.1",
+      "unit": "%",
+      "period": "T1 2023",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "total_bilan": {
+      "name": "total_bilan",
+      "value": "95200000",
+      "unit": "TND",
+      "period": "au 31 mars 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "creances_clients": {
+      "name": "creances_clients",
+      "value": "45620000",
+      "unit": "TND",
+      "period": "31/03/2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "tresorerie": {
+      "name": "tresorerie",
+      "value": "31130000",
+      "unit": "TND",
+      "period": "Bilan",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "actifs_immobilises": {
+      "name": "actifs_immobilises",
+      "value": "18450000",
+      "unit": "TND",
+      "period": "31/03/2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "ca_developpement_applications": {
+      "name": "ca_developpement_applications",
+      "value": "12650000",
+      "unit": "TND",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "ca_infrastructure_cloud": {
+      "name": "ca_infrastructure_cloud",
+      "value": "8625000",
+      "unit": "TND",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "ca_conseil_transformation": {
+      "name": "ca_conseil_transformation",
+      "value": "3450000",
+      "unit": "TND",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "effectif_total": {
+      "name": "effectif_total",
+      "value": "1450",
+      "unit": "collaborateurs",
+      "period": "au 31 mars 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "croissance_effectif": {
+      "name": "croissance_effectif",
+      "value": "15.2",
+      "unit": "%",
+      "period": "31 mars 2024 par rapport à 31 mars 2023",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "ca_par_collaborateur": {
+      "name": "ca_par_collaborateur",
+      "value": "19.8",
+      "unit": "kTND",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "medium"
+    },
+    "delai_paiement_clients": {
+      "name": "delai_paiement_clients",
+      "value": "58",
+      "unit": "jours",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "taux_creances_douteuses": {
+      "name": "taux_creances_douteuses",
+      "value": "3.2",
+      "unit": "%",
+      "period": "non mentionnée",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "ca_tunisie": {
+      "name": "ca_tunisie",
+      "value": "17250000",
+      "unit": "TND",
+      "period": "Premier trimestre 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "ca_services_financiers": {
+      "name": "ca_services_financiers",
+      "value": "10063000",
+      "unit": "TND",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "ca_telecommunications": {
+      "name": "ca_telecommunications",
+      "value": "7188000",
+      "unit": "TND",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "ca_secteur_public": {
+      "name": "ca_secteur_public",
+      "value": "5750000",
+      "unit": "TND",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "ca_industrie": {
+      "name": "ca_industrie",
+      "value": "3450000",
+      "unit": "TND",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "ca_commerce_distribution": {
+      "name": "ca_commerce_distribution",
+      "value": "2299000",
+      "unit": "TND",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "budget_rd": {
+      "name": "budget_rd",
+      "value": "1850000",
+      "unit": "TND",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "certifications_obtenues": {
+      "name": "certifications_obtenues",
+      "value": "285",
+      "unit": "certifications",
+      "period": "au 31 mars 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "investissement_cloud": {
+      "name": "investissement_cloud",
+      "value": "650000",
+      "unit": "TND",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "investissement_cybersecurite": {
+      "name": "investissement_cybersecurite",
+      "value": "370000",
+      "unit": "TND",
+      "period": "T1 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "investissement_formation_certifications": {
+      "name": "investissement_formation_certifications",
+      "value": "125000",
+      "unit": "TND",
+      "period": "non mentionnée",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "objectif_croissance_ca_2024": {
+      "name": "objectif_croissance_ca_2024",
+      "value": "15-18",
+      "unit": "%",
+      "period": "exercice 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "objectif_marge_operationnelle_2024": {
+      "name": "objectif_marge_operationnelle_2024",
+      "value": "22.4",
+      "unit": "%",
+      "period": "2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "objectif_roe_2024": {
+      "name": "objectif_roe_2024",
+      "value": "22.3",
+      "unit": "%",
+      "period": "Exercice 2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "objectif_expansion_effectif_2024": {
+      "name": "objectif_expansion_effectif_2024",
+      "value": "200",
+      "unit": "collaborateurs",
+      "period": "2024",
+      "source_found": true,
+      "confidence": "high"
+    },
+    "objectif_investissements_techno_2024": {
+      "name": "objectif_investissements_techno_2024",
+      "value": "8500000",
+      "unit": "TND",
+      "period": "2024",
+      "source_found": true,
+      "confidence": "high"
+    }
+  }
+}

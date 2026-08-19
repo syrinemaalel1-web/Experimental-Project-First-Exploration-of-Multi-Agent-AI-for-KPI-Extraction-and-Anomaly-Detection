@@ -1,0 +1,236 @@
+# Document extrait de: data/testrap4.pdf
+## INETUM TUNISIE
+
+## R ´ EPUBLIQUE TUNISIENNE
+
+Soci´ et´ e de services du num´ erique et d'ing´ enierie
+
+## RAPPORT FINANCIER
+
+## PREMIER TRIMESTRE 2024
+
+P´ eriode : 1er janvier - 31 mars 2024
+
+Date de publication : 25 avril 2024
+
+Si`
+
+ege social : Les Berges du Lac II, 1053 Tunis
+
+Capital social : 25 000 000 TND
+
+RC : B122005042
+
+## Table des mati` eres
+
+| 1 R´ esum´ e Ex´ ecutif   | 1 R´ esum´ e Ex´ ecutif                | 1 R´ esum´ e Ex´ ecutif                   |   2 |
+|---------------------------|----------------------------------------|-------------------------------------------|-----|
+|                           | 1.1                                    | Faits marquants du trimestre . . . .      |   2 |
+| 2                         | Analyse des Performances Financi` eres | Analyse des Performances Financi` eres    |   2 |
+|                           | 2.1                                    | Chiffre d'Affaires . . . . . . . . . . .  |   2 |
+|                           | 2.2                                    | Charges d'Exploitation . . . . . . . .    |   2 |
+| 3                         | Bilan et Structure Financi` ere        | Bilan et Structure Financi` ere           |   3 |
+|                           | 3.1                                    | ´ Evolution du Total Bilan . . . . . . .  |   3 |
+|                           | 3.2                                    | Analyse des Cr´ eances Clients . . . .    |   3 |
+| 4                         | Indicateurs de Performance Cl´ es      | Indicateurs de Performance Cl´ es         |   3 |
+|                           | 4.1                                    | Ratios de Rentabilit´ e . . . . . . . . . |   3 |
+|                           | 4.2                                    | Ratios d'Activit´ e et Productivit´ e . . |   4 |
+| 5                         | Analyse Sectorielle et March´ es       | Analyse Sectorielle et March´ es          |   4 |
+|                           | 5.1                                    | R´ epartition par Secteur d'Activit´ e .  |   4 |
+|                           | 5.2                                    | R´ epartition G´ eographique . . . . . .  |   4 |
+| 6                         | Ressources Humaines et Innovation      | Ressources Humaines et Innovation         |   4 |
+|                           | 6.1                                    | ´ Evolution des Effectifs . . . . . . . . |   4 |
+|                           | 6.2                                    | Investissements R&D et Formation .        |   4 |
+| 7                         | Perspectives et Strat´ egie 2024       | Perspectives et Strat´ egie 2024          |   5 |
+|                           | 7.1                                    | Objectifs Financiers . . . . . . . . .    |   5 |
+|                           | 7.2                                    | Axes Strat´ egiques 2024-2026 . . . . .   |   5 |
+|                           | 7.3                                    | Investissements Technologiques T1 2024    |   5 |
+
+## 1 R´ esum´ e Ex´ ecutif
+
+Inetum Tunisie consolide sa position de leader des services num´ eriques au premier trimestre 2024, avec des performances exceptionnelles port´ ees par l'acc´ el´ eration de la transformation digitale de ses clients et l'expansion de ses activit´ es offshore.
+
+Le chiffre d'affaires atteint 28 750 000 TND, en progression remarquable de 18,5% par rapport au T1 2023.
+
+## 1.1 Faits marquants du trimestre
+
+- Croissance du chiffre d'affaires : +18,5%
+- Expansion de l'effectif : +15,2% (1 450 collaborateurs)
+- Am´ elioration de la marge op´ erationnelle : 24,8% (+2,4 points)
+- Nouveaux contrats sign´ es : 45,2 millions TND
+- ROE trimestriel annualis´ e : 22,3%
+- Ouverture du nouveau centre de d´ eveloppement ` a Sfax
+
+## 2 Analyse des Performances Financi` eres
+
+## 2.1 Chiffre d'Affaires
+
+Le chiffre d'affaires s'´ etablit ` a 28 750 000 TND au T1 2024, contre 24 260 000 TND au T1 2023, soit une croissance exceptionnelle de 18,5%.
+
+Table 1 - D´ ecomposition du Chiffre d'Affaires (en milliers TND)
+
+| Ligne de services                 | T1 2024   | T1 2023   | ´ Evolution (%)   |
+|-----------------------------------|-----------|-----------|-------------------|
+| D´ eveloppement d'applications    | 12 650    | 10 200    | +24,0%            |
+| Infrastructure & Cloud            | 8 625     | 7 450     | +15,8%            |
+| Cybers´ ecurit´ e                 | 4 025     | 3 180     | +26,6%            |
+| Conseil & Transformation digitale | 3 450     | 3 430     | +0,6%             |
+| Total CA                          | 28 750    | 24 260    | +18,5%            |
+
+## 2.2 Charges d'Exploitation
+
+Les charges d'exploitation s'´ el` event ` a 21 620 000 TND, en hausse de 13,8% par rapport au T1 2023. Cette progression maˆ ıtris´ ee permet une am´ elioration significative de la rentabilit´ e.
+
+Table 2 - ´ Evolution des Charges d'Exploitation (en milliers TND)
+
+| Nature des charges     | T1 2024   | T1 2023   | ´ Evolution (%)   |
+|------------------------|-----------|-----------|-------------------|
+| Charges de personnel   | 16 850    | 14 920    | +12,9%            |
+| Sous-traitance externe | 2 450     | 2 180     | +12,4%            |
+| Charges g´ en´ erales  | 1 685     | 1 580     | +6,6%             |
+| Amortissements         | 635       | 620       | +2,4%             |
+| Total charges          | 21 620    | 19 300    | +12,0%            |
+
+## 3 Bilan et Structure Financi` ere
+
+## 3.1 ´ Evolution du Total Bilan
+
+Le total bilan progresse de 22,4% pour s'´ etablir ` a 95 200 000 TND au 31 mars 2024, refl´ etant la croissance soutenue de l'activit´ e.
+
+| Table 3 - Structure du ACTIF   | Bilan (en milliers 31/03/2024   | TND) 31/03/2023   |
+|--------------------------------|---------------------------------|-------------------|
+| Actifs immobilis´ es           | 18 450                          | 15 620            |
+| Mat´ eriel informatique        | 12 850                          | 10 920            |
+| Immeubles et am´ enagements    | 5 600                           | 4 700             |
+| Actifs circulants              | 76 750                          | 62 180            |
+| Cr´ eances clients             | 45 620                          | 37 850            |
+| Tr´ esorerie et ´ equivalents  | 31 130                          | 24 330            |
+| TOTAL ACTIF                    | 95 200                          | 77 800            |
+| PASSIF                         | 31/03/2024                      | 31/03/2023        |
+| Capitaux propres               | 42 850                          | 35 100            |
+| Capital social                 | 25 000                          | 25 000            |
+| R´ eserves et r´ esultat       | 17 850                          | 10 100            |
+| Dettes                         | 52 350                          | 42 700            |
+| Dettes fournisseurs            | 8 920                           | 7 450             |
+| Dettes sociales et fiscales    | 43 430                          | 35 250            |
+| TOTAL PASSIF                   | 95 200                          | 77 800            |
+
+## 3.2 Analyse des Cr´ eances Clients
+
+Le d´ elai moyen de paiement clients s'´ etablit ` a 58 jours, en am´ elioration par rapport aux 63 jours du T1 2023. Les cr´ eances douteuses repr´ esentent 3,2% du total, niveau faible pour le secteur.
+
+## 4 Indicateurs de Performance Cl´ es
+
+## 4.1 Ratios de Rentabilit´ e
+
+Table 4 - Indicateurs de Rentabilit´ e
+
+| Ratio                  | T1 2024   | T1 2023   | Objectif 2024   |
+|------------------------|-----------|-----------|-----------------|
+| ROE (annualis´ e)      | 22,3%     | 18,7%     | 20,0%           |
+| ROA (annualis´ e)      | 10,1%     | 8,2%      | 9,5%            |
+| Marge op´ erationnelle | 24,8%     | 20,4%     | 22,0%           |
+| Marge nette            | 18,6%     | 15,8%     | 17,0%           |
+| EBITDA                 | 7 765     | 6 280     | -               |
+
+Table 5 - Indicateurs Op´ erationnels
+
+| Indicateur                     | T1 2024   | T1 2023   | ´ Evolution (%)   |
+|--------------------------------|-----------|-----------|-------------------|
+| CA par collaborateur (kTND)    | 19,8      | 19,3      | +2,6%             |
+| Taux d'utilisation             | 87,5%     | 84,2%     | +3,3 pts          |
+| D´ elai moyen paiement clients | 58 jours  | 63 jours  | -5 jours          |
+| Rotation des stocks (jours)    | 12        | 15        | -3 jours          |
+
+## 4.2 Ratios d'Activit´ e et Productivit´ e
+
+## 5 Analyse Sectorielle et March´ es
+
+## 5.1 R´ epartition par Secteur d'Activit´ e
+
+Table 6 - Chiffre d'Affaires par Secteur Client (en milliers TND)
+
+| Secteur                 | T1 2024   | T1 2023   | Part (%)   |
+|-------------------------|-----------|-----------|------------|
+| Services financiers     | 10 063    | 8 491     | 35,0%      |
+| T´ el´ ecommunications  | 7 188     | 6 067     | 25,0%      |
+| Secteur public          | 5 750     | 4 847     | 20,0%      |
+| Industrie               | 3 450     | 2 913     | 12,0%      |
+| Commerce & Distribution | 2 299     | 1 942     | 8,0%       |
+| Total                   | 28 750    | 24 260    | 100,0%     |
+
+## 5.2 R´ epartition G´ eographique
+
+Table 7 - Chiffre d'Affaires par Zone G´ eographique
+
+| Zone                    | T1    | 2024   | T1 2023   | Part (%)   |
+|-------------------------|-------|--------|-----------|------------|
+| Tunisie                 | 17    | 250    | 14 556    | 60,0%      |
+| France (offshore)       | 8 625 |        | 7 278     | 30,0%      |
+| Autres pays europ´ eens | 2 875 |        | 2 426     | 10,0%      |
+| Total                   | 28    | 750    | 24 260    | 100,0%     |
+
+## 6 Ressources Humaines et Innovation
+
+## 6.1 ´ Evolution des Effectifs
+
+L'effectif total atteint 1 450 collaborateurs au 31 mars 2024, soit une progression de 15,2% refl´ etant la croissance soutenue de l'activit´ e.
+
+## 6.2 Investissements R&amp;D et Formation
+
+- Budget R&amp;D : 1 850 000 TND (+28,5%)
+- Heures de formation : 12 450 heures (+35,2%)
+
+- Certifications obtenues : 285 (+42,0%)
+
+- Nouveaux brevets d´ epos´ es : 3
+
+Table 8 - R´ epartition des Effectifs par Profil
+
+| Profil                       | 31/03/2024   | 31/03/2023   | ´ Evolution (%)   |
+|------------------------------|--------------|--------------|-------------------|
+| Ing´ enieurs d´ eveloppement | 726          | 630          | +15,2%            |
+| Architectes & Tech leads     | 145          | 126          | +15,1%            |
+| Consultants fonctionnels     | 290          | 252          | +15,1%            |
+| Support & Infrastructure     | 174          | 151          | +15,2%            |
+| Management & Administration  | 115          | 100          | +15,0%            |
+| Total effectifs              | 1 450        | 1 259        | +15,2%            |
+
+## 7 Perspectives et Strat´ egie 2024
+
+## 7.1 Objectifs Financiers
+
+Inetum Tunisie confirme ses objectifs ambitieux pour l'exercice 2024 :
+
+- Croissance du chiffre d'affaires : 15-18%
+- Marge op´ erationnelle : ¿ 22%
+- ROE : 20-22%
+- Expansion de l'effectif : +200 collaborateurs
+- Investissements technologiques : 8 500 000 TND
+
+## 7.2 Axes Strat´ egiques 2024-2026
+
+- -Cloud &amp; Data : Renforcement des comp´ etences cloud natives
+- -Intelligence Artificielle : D´ eveloppement d'offres IA sectorielles
+- -Cybers´ ecurit´ e : Expansion du SOC (Security Operations Center)
+- -Offshore : Doublement de l'activit´ e europ´ eenne
+- -Durabilit´ e : Solutions Green IT et empreinte carbone
+
+## 7.3 Investissements Technologiques T1 2024
+
+Table 9 - R´ epartition des Investissements IT (en milliers TND)
+
+| Domaine                    | Montant   | Part (%)   |
+|----------------------------|-----------|------------|
+| Infrastructure Cloud       | 650       | 35,1%      |
+| Outils de d´ eveloppement  | 480       | 25,9%      |
+| Cybers´ ecurit´ e          | 370       | 20,0%      |
+| IA & Analytics             | 225       | 12,2%      |
+| Formation & Certifications | 125       | 6,8%       |
+| Total                      | 1 850     | 100,0%     |
+
+Risques identifi´ es : P´ enurie de talents IT, volatilit´ e des changes, concurrence internationale accrue, ´ evolution rapide des technologies.
+
+Opportunit´ es : Acc´ el´ eration de la digitalisation post-COVID, nearshoring vers la Tunisie, d´ eveloppement de l'´ ecosyst` eme startup, partenariats technologiques strat´ egiques.
+
+Direction G´ en´ erale Inetum Tunisie Tunis, le 25 avril 2024

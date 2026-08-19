@@ -1,0 +1,96 @@
+
+🚨 RAPPORT DÉTECTION D'ANOMALIES - ATTIJARI BANK T1 2024
+========================================================
+📅 Analyse: 2025-08-13 14:36:55
+🤖 Agent: Agent 3 - Détection Anomalies
+📊 Méthode: Z-score + benchmarks sectoriels
+📈 KPIs analysés: 15
+🚨 Anomalies détectées: 4
+⚠️  Taux d'anomalies: 26.7%
+
+📊 RÉPARTITION PAR SÉVÉRITÉ:
+===========================
+🔴 Sévérité Élevée: 3
+🟡 Sévérité Modérée: 1
+🟢 Sévérité Faible: 0
+
+🎯 ANOMALIES DÉTECTÉES:
+======================
+
+🚨 SÉVÉRITÉ ÉLEVÉE:
+-------------------------
+• Marge Commerciale:
+  Valeur: 0.015%
+  Fourchette sectorielle: 10.0-25.0%
+  Z-score: -4.66 (Très atypique)
+  Type: Hors fourchette sectorielle
+
+• Concentration Deposits:
+  Valeur: 0.08%
+  Fourchette sectorielle: 65.0-85.0%
+  Z-score: -14.98 (Très atypique)
+  Type: Hors fourchette sectorielle
+
+• Marge Nette Sur Pnb:
+  Valeur: 0.1%
+  Fourchette sectorielle: 60.0-85.0%
+  Z-score: -11.58 (Très atypique)
+  Type: Hors fourchette sectorielle
+
+
+🚨 SÉVÉRITÉ MODÉRÉE:
+-------------------------
+• Roe Annualise:
+  Valeur: 16.4%
+  Fourchette sectorielle: 8.0-18.0%
+  Z-score: 1.36 (Modérément atypique)
+  Type: Hors fourchette optimale
+
+
+🧠 ANALYSE EXPERTE:
+==================
+**RÉSUMÉ EXÉCUTIF**
+
+Les anomalies détectées dans les KPIs d'Attijari Bank Tunisie (T1 2024) suggèrent des problèmes de rentabilité, de risque et de gestion des dépôts. Les anomalies principales sont :
+
+- Une rentabilité des capitaux propres (ROE) en dehors de la fourchette optimale (16,4%).
+- Des marges commerciales et nettes sur le PNB en dehors de la fourchette sectorielle (0,015% et 0,1%).
+- Une concentration des dépôts en dehors de la fourchette sectorielle (0,08%).
+
+**ANALYSE DÉTAILLÉE**
+
+### Rentabilité
+
+- **ROE_annualise** : La rentabilité des capitaux propres est en dehors de la fourchette optimale (8,0-18,0%). Cela suggère que la banque pourrait améliorer sa rentabilité en optimisant ses opérations et en réduisant ses coûts.
+- **Marge_commerciale** : Les marges commerciales sont en dehors de la fourchette sectorielle (10,0-25,0%). Cela suggère que la banque pourrait améliorer ses revenus en optimisant ses opérations commerciales et en augmentant ses marges.
+- **Marge_nette_sur_pnb** : Les marges nettes sur le PNB sont en dehors de la fourchette sectorielle (60,0-85,0%). Cela suggère que la banque pourrait améliorer ses revenus en optimisant ses opérations de crédit et en augmentant ses marges.
+
+### Risque
+
+- **Concentration_deposits** : La concentration des dépôts est en dehors de la fourchette sectorielle (65,0-85,0%). Cela suggère que la banque pourrait être vulnérable à des risques de liquidité et de crédit si elle perdait une partie importante de ses dépôts.
+
+### Interprétation MÉTIER
+
+- La rentabilité des capitaux propres (ROE) est un indicateur clé de la performance de la banque. Une rentabilité élevée suggère que la banque est efficace dans l'utilisation de ses capitaux propres.
+- Les marges commerciales et nettes sur le PNB sont des indicateurs de la rentabilité des opérations commerciales et de crédit de la banque.
+- La concentration des dépôts est un indicateur de la vulnérabilité de la banque à des risques de liquidité et de crédit.
+
+### Impact POTENTIEL
+
+- Les anomalies détectées pourraient avoir un impact négatif sur la performance de la banque, notamment en termes de rentabilité et de risque.
+- Une rentabilité élevée pourrait être atteinte en optimisant les opérations et en réduisant les coûts.
+- Les marges commerciales et nettes sur le PNB pourraient être améliorées en optimisant les opérations commerciales et en augmentant les marges.
+- La concentration des dépôts pourrait être réduite en diversifiant les dépôts et en améliorant la gestion des risques.
+
+### RECOMMANDATIONS d'actions correctives
+
+- Optimiser les opérations et réduire les coûts pour améliorer la rentabilité des capitaux propres (ROE).
+- Optimiser les opérations commerciales et augmenter les marges pour améliorer les marges commerciales et nettes sur le PNB.
+- Diversifier les dépôts et améliorer la gestion des risques pour réduire la concentration des dépôts.
+- Mettre en place des mécanismes de surveillance et de contrôle pour prévenir les anomalies futures.
+
+========================================================
+📁 Fichiers générés:
+• attijari_anomalies_detection.json (données complètes)
+• attijari_anomalies_detection_report.txt (ce rapport)
+• attijari_anomalies_detection_anomalies.csv (anomalies)
